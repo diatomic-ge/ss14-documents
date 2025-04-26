@@ -6,7 +6,7 @@
 In order to provide cloning and biosynthetic limbs to injured crew members, the medical department requests the following for biomass production:
 
 Animals:
-  - [ ] 2x Gorilla
+  - [ ] 3x Gorilla
 
 Urgency:
   - [ ] Immediately (significant / important casualties)
