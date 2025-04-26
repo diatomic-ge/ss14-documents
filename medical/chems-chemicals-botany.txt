@@ -22,7 +22,7 @@ Diethylamine - +Nut, +Health, +Age, +Life, -Pest
   - 200 diethylamine
     - 100 ammonia
       - 75 hydrogen
-      - 25 oxygen
+      - 25 nitrogen
     - 100 ethanol
 
 EZ Nutrient - Nutrition 10/5u
