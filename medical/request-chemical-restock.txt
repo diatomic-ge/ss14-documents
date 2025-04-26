@@ -1,0 +1,19 @@
+[color=#5b97bc]░░██░░ [head=2]Medical Memo[/head]
+██████ [head=3]Subject:  Chemicals Request (Cargo)[/head]
+░░██░░ [head=3]From:  Selena Moon[/head]
+[/color]──────────────────────────────────────────
+
+To produce more medicines and chemicals, the medical department requests the following:
+
+Chemicals
+  - [ ] 1x ChemVend restock
+  - [ ] 30-120x Unrefined salt
+
+Urgency:
+  - [ ] Immediately (significant / important casualties)
+  - [ ] Urgently (casualties)
+  - [ ] When possible (injury / likely casualties)
+  - [ ] When convenient (no urgency)
+
+──────────────────────────────────────────
+Sincerely, Selena Moon.

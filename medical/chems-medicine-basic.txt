@@ -1,0 +1,139 @@
+# Basic Medicines
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Basic Medicine[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Probital/Libital 1:1 - Brute 37.5/5u - 40u OD
+  - 100 libital
+    - 35 nitrogen
+    - 35 oil
+    - 35 oxygen
+  - 100 probital
+    - 35 acetone
+      - 15 oil
+      - 15 oxygen
+      - 15 welding fuel
+    - 35 copper
+    - 35 phosphorus
+
+    - 60 oil
+      - 15 carbon
+      - 15 hydrogen
+      - 15 welding fuel
+
+Aiuri/Lenturi 1:1 - Heat/Shock/Cold 25/5u - 40u OD
+  - 100 aiuri
+    - 35 ammonia
+      - 30 hydrogen
+      - 10 nitrogen
+    - 35 hydrogen
+    - 35 welding fuel
+  - 100 lenturi
+    - 35 chlorine
+    - 35 oxygen
+    - 35 sulfuric acid
+      - 15 hydrogen
+      - 30 oxygen
+      - 15 sulfur
+
+Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
+  - 100 diphenhydramine (heat)
+    - 35 carbon
+    - 35 diethylamine
+      - 20 ammonia
+        - 15 hydrogen
+        -  5 nitrogen
+      - 20 ethanol
+    - 35 ethanol
+    - 35 oil (do not heat alone!)
+    - 35 table salt
+  - 100 multiver
+    - 35 oil
+    - 35 silicon
+    - 35 table salt
+
+  - 70 table salt (heat)
+    - 35 chlorine
+    - 35 sodium
+  - 70 oil
+    - 20 carbon
+    - 20 hydrogen
+    - 20 welding fuel
+
+Sigynate - Caustic 30/5u - 16u OD
+  - 200 sigynate (heat)
+    - 50 lenturi
+      - 20 chlorine
+      - 20 oxygen
+      - 20 sulfuric acid
+        - 10 hydrogen
+        - 20 oxygen
+        - 10 sulfur
+    - 50 sodium carbonate
+      - 15 ammonia
+        - 15 hydrogen
+        -  5 nitrogen
+      - 15 carbon
+      - 15 oxygen
+      - 15 table salt (heat)
+        - 10 chlorine
+        - 10 sodium
+    - 50 sodium hydroxide
+      - 25 hydroxide (heat)
+        - 15 hydrogen
+        - 15 oxygen
+      - 25 sodium
+    - 50 sugar
+    - 50 water
+
+Arith-Pot 20u - Radiation 100, Brute -10 - Bleed
+Arithrazine - Radiation 50/5u, Brute -5/5u - Bleed
+  - 200 arithrazine
+    - 100 hydrogen
+    - 100 hyronalin
+      - 50 potassium iodide
+        - 25 iodine
+        - 25 potassium
+      - 50 radium
+
+Phalanximine - Genetic 12.5/5u, Radiation -12.5/5u
+  - 200 phalanximine
+    - 70 ethanol
+    - 70 hyronalin
+      - 35 potassium iodide
+        - 20 iodine
+        - 20 potassium
+      - 35 radium
+    - 70 unstable mutagen
+      - 25 chlorine
+      - 25 phosphorus
+      - 25 radium
+
+Dexalin/Salb. 1:1 - Airloss 37.5-100/5u - 31u OD
+  - 100 dexalin (careful of overflow!)
+  - 100 salbutamol
+    - 25 dexalin
+    - 25 inaprovaline
+      - 10 carbon
+      - 10 oxygen
+      - 10 sugar
+    - 25 lithium
+    - 25 phenol
+      - 15 benzene (heat)
+        - 15 carbon
+        - 15 hydrogen
+      - 15 hydroxide (heat)
+        - 10 hydrogen
+        - 10 oxygen
+
+  - 125 dexalin (careful of overflow!)
+    - 90 oxygen
+    -  1 plasma (catalyst)
+
+Saline - Bloodloss 20%/5u - no OD
+  -  40 table salt
+    - 20 chlorine
+    - 20 sodium
+  - 160 water

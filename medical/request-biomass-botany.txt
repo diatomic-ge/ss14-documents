@@ -1,0 +1,18 @@
+[color=#5b97bc]░░██░░ [head=2]Medical Memo[/head]
+██████ [head=3]Subject:  Biomass Request (Botany)[/head]
+░░██░░ [head=3]From:  Selena Moon[/head]
+[/color]──────────────────────────────────────────
+
+In order to provide cloning and biosynthetic limbs to injured crew members, the medical department requests the following:
+
+Materials:
+  - [ ] 120x Biomass
+
+Urgency:
+  - [ ] Immediately (significant / important casualties)
+  - [ ] Urgently (casualties)
+  - [ ] When possible (injury / likely casualties)
+  - [ ] When convenient (no urgency)
+
+──────────────────────────────────────────
+Sincerely, Selena Moon.

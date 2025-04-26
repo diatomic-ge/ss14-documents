@@ -1,0 +1,70 @@
+# Botanical Chemicals
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Botanical Chemicals[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Ammonia - +Nutrition, +Health
+  - 200 ammonia
+    - 150 hydrogen
+    -  50 oxygen
+
+Cryoxadone - -Toxin, +Health, -Age
+  - 200 cryoxadone
+    - 70 dexalin
+      - 50 oxygen
+      -  1 plasma
+    - 70 oxygen
+    - 70 water
+
+Diethylamine - +Nut, +Health, +Age, +Life, -Pest
+  - 200 diethylamine
+    - 100 ammonia
+      - 75 hydrogen
+      - 25 oxygen
+    - 100 ethanol
+
+EZ Nutrient - Nutrition 10/5u
+  - 200 ez nutrient
+    - 70 nitrogen
+    - 70 phosphorus
+    - 70 potassium
+
+Left-4-Zed - +Nutrition, -Health, +Mut. Modifier
+  - 200 left-4-zed
+    - 100 ez nutrient
+      - 35 nitrogen
+      - 35 phosphorus
+      - 35 potassium
+    - 100 radium
+
+Multiver - -Toxin, +Health
+  - 200 multiver
+    - 70 oil
+      - 20 carbon
+      - 20 hydrogen
+      - 20 welding fuel
+    - 70 silicon
+    - 70 table salt (heat)
+      - 35 chlorine
+      - 35 sodium
+
+Phalanximine - +Toxin, +Viable 4+u
+  - 200 phalanximine
+    - 70 ethanol
+    - 70 hyronalin
+      - 35 potassium iodide
+        - 20 iodine
+        - 20 potassium
+      - 35 radium
+    - 70 unstable mutagen
+      - 25 chlorine
+      - 25 phosphorus
+      - 25 radium
+
+Unstable Mutagen - +Mutation
+  - 200 unstable mutagen
+    - 70 chlorine
+    - 70 phosphorus
+    - 70 radium

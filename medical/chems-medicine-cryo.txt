@@ -1,0 +1,171 @@
+# Cryo/Pyro Medicines
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Cryo/Pyro Medicine[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Leporazine - Cold 25/5u - Stabilized Temperature
+  - 200 leporazine
+    - 100 copper
+    - 100 fersilicite (heat)
+      - 50 iron
+      - 50 silicon
+    -   1 plasma
+
+[color=#0091ff][head=2]Cryogenic Medicines[/head][/color]
+
+Cryox. - Air 60, Brt 40, Tox 40, Brn 60/5u - <213K
+  - 200 cryoxadone
+    - 70 dexalin
+      - 50 oxygen
+      -  1 plasma
+    - 70 oxygen
+    - 70 water
+
+Cyanoxadone - Bloodloss 60/5u - <213K - Arachnid
+  - 200 cyanoxadone
+    - 200 copper
+    - 100 cryoxadone
+      - 35 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 35 oxygen
+      - 35 water
+    -   1 blue blood
+
+Doxarubixadone - Genetic 20/5u - <213K
+  - 200 doxarubixadone
+    - 100 cryoxadone
+      - 35 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 35 oxygen
+      - 35 water
+    - 100 unstable mutagen
+      - 35 chlorine
+      - 35 phosphorus
+      - 35 radium
+
+Hemoxadone - Bloodloss 60/5u - <213K - No Arachnid
+  - 200 hemoxadone
+    - 200 iron
+    - 100 cryoxadone
+      - 35 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 35 oxygen
+      - 35 water
+    -   1 blood
+
+[color=#639137][head=3]Botanical Ingredients Needed[/head][/color]
+
+Alox. - Ht 50, Shk 30, Cau 10/5u - <213K - Dead
+  - 200 aloxadone
+    -  40 aloe (grow aloe in botany, grind)
+    - 120 cryoxadone
+      - 40 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 40 oxygen
+      - 40 water
+    -  40 sigynate
+      - 10 lenturi
+        - 5 chlorine
+        - 5 oxygen
+        - 5 sulfuric acid
+          -  5 hydrogen
+          - 10 oxygen
+          -  5 sulfur
+      - 10 sodium carbonate
+        - 5 ammonia
+          - 15 hydrogen
+          -  5 nitrogen
+        - 5 carbon
+        - 5 oxygen
+        - 5 table salt (heat)
+          - 5 chlorine
+          - 5 sodium
+      - 10 sodium hydroxide
+        - 5 hydroxide (heat)
+          - 5 hydrogen
+          - 5 oxygen
+        - 5 sodium
+      - 10 sugar
+      - 10 water
+
+[color=#996622][head=3]Specialty Ingredients Needed[/head][/color]
+
+Opporozidone - Rot -200s/5u - <150K - Dead only
+  - 200 opporozidone (heat)
+    -  70 cognizine
+      - 70 acetone
+        - 25 oil
+          - 10 carbon
+          - 10 hydrogen
+          - 10 welding fuel
+        - 25 oxygen
+        - 25 welding fuel
+      - 70 carpotoxin (grind koibean, raw carp fillet)
+      - 70 siderlac
+        - 35 aloe (grow aloe in botany, grind)
+        - 35 stellibinin (grow galaxythistle in botany, grind)
+    -  70 doxarubixadone
+      - 35 cryoxadone
+        - 15 dexalin
+          - 10 oxygen
+          -  1 plasma
+        - 15 oxygen
+        - 15 water
+      - 35 unstable mutagen
+        - 15 chlorine
+        - 15 phosphorus
+        - 15 radium
+    - 140 plasma (grind 14 plasma, condense plasma gas)
+
+[color=#f8c8ba][head=2]Pyrogenic Medicines[/head][/color]
+
+Natus. - Genetic 40, Heat 30/5u - >344K - Dead
+  - 200 natusixadone
+    - 100 pyroxadone
+      - 35 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 35 thermite
+        - 15 aluminum
+        - 15 iron
+        - 15 oxygen
+      - 35 welding fuel
+    - 100 unstable mutagen
+      - 35 chlorine
+      - 35 phosphorus
+      - 35 radium
+
+Pyrox. - Air 60, Brt 40, Tox 40, Brn 90/5u - >338K
+  - 200 pyroxadone (heat)
+    - 70 dexalin
+      - 50 oxygen
+      -  1 plasma
+    - 70 thermite
+      - 25 aluminum
+      - 25 iron
+      - 25 oxygen
+    - 70 welding fuel
+
+[color=#639137][head=3]Botanical Ingredients Needed[/head][/color]
+
+Ard. - Cld 50, Ht 30, Shk 30/5u - >344K - Dead
+  - 200 ardthyrnkole
+    -   1 plasma
+    - 100 pyroxadone (heat)
+      - 35 dexalin
+        - 30 oxygen
+        -  1 plasma
+      - 35 thermite
+        - 15 aluminum
+        - 15 iron
+        - 15 oxygen
+      - 35 welding fuel
+    - 100 siderlac
+      - 50 aloe (grow aloe in botany, grind)
+      - 50 stellibinin (grow galaxythistle in botany, grind)

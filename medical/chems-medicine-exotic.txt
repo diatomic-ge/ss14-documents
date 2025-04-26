@@ -1,0 +1,191 @@
+# Exotic Medicines
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Exotic Medicine[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+These are rarely practical, but may be fun if you have a lot of time.
+
+Precursors (in order):
+  Tier 0:
+    -  70 aluminum
+    - 415 carbon
+    - 460 chlorine (30 salt -> 150 chlorine)
+    - 200 copper
+    - 110 ethanol
+    -  70 fluorine
+    - 585 hydrogen
+    -  50 iodine
+    - 100 iron
+    - 280 lithium
+    - 135 nitrogen
+    - 675 oxygen
+    - 135 phosphorus
+    -  41 plasma (grind 5 plasma, condense plasma gas)
+    -  50 potassium
+    - 235 radium
+    - 155 silicon
+    -  30 sodium
+    - 235 sugar
+    -  15 sulfur
+    - 300 water
+    -  75 welding fuel
+
+  Tier 1:
+    - 125 benzene (heat)
+      - 125 carbon
+      - 125 hydrogen
+    - 200 chloral hydrate
+      - 210 chlorine
+      -  70 ethanol
+      -  70 water
+    - 240 dexalin (be careful of overflow!)
+      - 160 oxygen
+      -   1 plasma
+    - 200 fersilicite (heat)
+      - 100 iron
+      - 100 silicon
+    - 375 hydroxide (heat)
+      - 190 hydrogen
+      - 190 oxygen
+    - 100 inaprovaline
+      -  35 carbon
+      -  35 oxygen
+      -  35 sugar
+    - 210 oil
+      -  55 carbon
+      -  55 hydrogen
+      -  55 welding fuel
+    - 100 potassium iodide
+      -  50 iodine
+      -  50 potassium
+    -  35 sulfuric acid
+      -  15 hydrogen
+      -  30 oxygen
+      -  15 sulfur
+    -  55 table salt (heat)
+      -  30 chlorine
+      -  30 sodium
+    - 400 unstable mutagen
+      - 135 chlorine
+      - 135 phosphorus
+      - 135 radium
+
+  Tier 2:
+    -  50 acetone
+      -  20 oil
+      -  20 oxygen
+      -  20 welding fuel
+    - 200 convermol
+      -  70 aluminum
+      -  70 dexalin
+      -  70 fluorine
+    - 200 cryoxadone
+      -  70 dexalin
+      -  70 oxygen
+      -  70 water
+    - 200 hyronalin
+      - 100 potassium iodide
+      - 100 radium
+    - 100 lenturi
+      -  35 chlorine
+      -  35 oxygen
+      -  35 sulfuric acid
+    - 400 leporazine
+      - 200 copper
+      - 200 fersilicite
+      -   1 plasma
+    - 400 libital
+      - 135 nitrogen
+      - 135 oil
+      - 135 oxygen
+    -  40 multiver
+      -  15 oil
+      -  15 silicon
+      -  15 table salt
+    - 250 phenol
+      - 125 benzene
+      - 125 hydroxide
+    - 200 saline
+      -  40 table salt
+      - 160 water
+
+  Tier 3:
+    - 400 arithrazine
+      - 200 hydrogen
+      - 200 hyronalin
+    - 400 bruizine
+      - 200 libital
+      - 180 lithium
+      - 200 sugar
+    - 200 epinephrine
+      -  50 acetone
+      -  50 chlorine
+      -  50 hydroxide
+      -  50 phenol
+    - 400 oxandrolone
+      - 200 carbon
+      - 100 lenturi
+      - 100 phenol
+    - 200 pentetic acid
+      -  40 ethanol
+      -  40 multiver
+      -  40 oil
+      -  40 plasma (grind 4 plasma, condense plasma gas)
+      -  40 silicon
+    - 400 puncturase (heat)
+      - 200 hydroxide
+      - 200 libital
+    - 400 salbutamol
+      - 100 dexalin
+      - 100 inaprovaline
+      - 100 lithium
+      - 100 phenol
+
+  Tier 4:
+    - 400 licoxide
+      - 400 leporazine
+      - 400 oxandrolone
+    - 400 pestiline
+      - 400 arithrazine
+      - 200 pentetic acid
+      - 200 salbutamol
+    - 400 razorium
+      - 400 bruizine
+      - 400 puncturase
+
+  Tier 5:
+    - 400 liquid exotium
+      - 400 licoxide
+      - 400 pestiline
+      - 400 razorium
+      - 400 unstable mutagen
+
+Example dosages:
+   5u: Brt  37.5, Brn  50, Air 25
+  10u: Brt  75,   Brn 100, Air 50
+  15u: Brt 112.5, Brn 150, Air 75
+
+A single syringe is more than enough to get a crit person moving out of danger fast.
+
+Revivopine - Brt 37.5, Brn 50, Air 25/5u - Crit
+  - 200 revivopine
+    - 200 convermol
+    - 200 epinephrine
+    - 200 liquid exotium
+    - 200 salbutamol
+
+Example dosages:
+  15u: Brt  90,   Tox  80, Brn 120, Air 120, Uncon. 40s
+  20u: Brt 202.5, Tox 180, Brn 270, Air 270, Uncon. 90s
+
+15u is enough for most things.
+20u (fits in a pill) is enough for basically anything but genetic, if you're alive.
+
+Stas. - Brt/Tox/Brn/Air - 11+u - Uncon. 50s/5u
+  - 200 stasicillin
+    - 200 chloral hydrate
+    - 200 cryoxadone
+    - 200 liquid exotium
+    - 200 saline
