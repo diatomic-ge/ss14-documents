@@ -6,32 +6,32 @@
 In order to construct a biofabricator and cloning setup, to verify the cryogenics setup, and to treat IPC patients who may be brought here, the medical department requests the following from either engineering or science (as available):
 
 Components:
-  - [ ] 1x Capacitor
-  - [ ] 5x Manipulator
-  - [ ] 6x Matter Bin
+  - \[ ] 1x Capacitor
+  - \[ ] 5x Manipulator
+  - \[ ] 6x Matter Bin
 
 Materials:
-  - [ ] 25x Steel
-  - [ ] 10x LV cable
-  - [ ] 10x Glass
+  - \[ ] 25x Steel
+  - \[ ] 10x LV cable
+  - \[ ] 10x Glass
 
 Tools:
-  - [ ] Crowbar
-  - [ ] Gas analyzer
-  - [ ] Network configurator
-  - [ ] Screwdriver
-  - [ ] Wrench
+  - \[ ] Crowbar
+  - \[ ] Gas analyzer
+  - \[ ] Network configurator
+  - \[ ] Screwdriver
+  - \[ ] Wrench
 
 IPC Treatment (in case IPCs are brought to medical):
-  - [ ] Welding mask
-  - [ ] Welding tool
-  - [ ] 30x LV cable
+  - \[ ] Welding mask
+  - \[ ] Welding tool
+  - \[ ] 30x LV cable
 
 Urgency:
-  - [ ] Immediately (significant / important casualties)
-  - [ ] Urgently (casualties)
-  - [ ] When possible (injury / likely casualties)
-  - [ ] When convenient (no urgency)
+  - \[ ] Immediately (significant / important casualties)
+  - \[ ] Urgently (casualties)
+  - \[ ] When possible (injury / likely casualties)
+  - \[ ] When convenient (no urgency)
 
 ──────────────────────────────────────────
 Sincerely, Selena Moon.

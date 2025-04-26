@@ -6,13 +6,13 @@
 In order to provide cloning and biosynthetic limbs to injured crew members, the medical department requests the following:
 
 Materials:
-  - [ ] 120x Biomass
+  - \[ ] 120x Biomass
 
 Urgency:
-  - [ ] Immediately (significant / important casualties)
-  - [ ] Urgently (casualties)
-  - [ ] When possible (injury / likely casualties)
-  - [ ] When convenient (no urgency)
+  - \[ ] Immediately (significant / important casualties)
+  - \[ ] Urgently (casualties)
+  - \[ ] When possible (injury / likely casualties)
+  - \[ ] When convenient (no urgency)
 
 ──────────────────────────────────────────
 Sincerely, Selena Moon.
