@@ -8,9 +8,16 @@ This form is meant for promoting Acting Command members on station, and should n
 
 [bold]All Command members are required to have a mindshield implant if feasible, to be administered before this form is stamped and signed if possible.[/bold]
 
-All Acting Head of Department promotions should be within their department if possible.
+All Acting Head of Department promotions must be within their department unless there are no qualified members.
 
-All Acting Captain promotions should prioritize officially hired Command members before Acting Command members, and should be from existing Command members if possible.
+Acting Captain promotions must take place in the following order:
+  - Officially hired Command members
+  - Acting Command members
+  - Non-Command crew (if required)
+
+Acting Command members may not be selected for Acting Captain if officially hired Command members are present.
+
+Non-Command crew may only be selected for Acting Captain if no officially hired or Acting Command members are present.
 
 [bold]This form is only valid if signed and stamped by the current Captain or Acting Captain, and signed by the promotee.[/bold]
 
@@ -37,5 +44,12 @@ All Acting Captain promotions should prioritize officially hired Command members
 
 [color=#666666][bold]Former Position[/bold]: [/color]POSITION
 
-[color=#666666][bold]Reason for Selection[/bold][/color] [color=#888888](mandatory if a non-Command member is selected for Acting Captain, or a cross-department Head promotion is occurring)[/color][color=#666666]:[/color]
+[color=#666666][bold]Mindshield Status[/bold]:[/color]
+  - \[ ] Implanted
+  - \[ ] [color=#dd3333][bold]Not implanted[/bold][/color]
+    - \[ ] [color=#dd3333][bold]None available[/bold][/color] [color=#888888](the promotee must be administered a mindshield as soon as possible)[/color]
+    - \[ ] [bold][color=#dd3333]Other[/bold][/color] [color=#888888](explanation mandatory)[/color][color=#dd3333]:[/color]
+      EXPLANATION
+
+[color=#666666][bold]Reason for Selection[/bold][/color] [color=#888888](mandatory if a non-Command member or Acting Command member is selected for Acting Captain, or a cross-department Head promotion is occurring)[/color][color=#666666]:[/color]
   REASON
