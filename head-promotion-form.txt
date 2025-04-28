@@ -1,0 +1,41 @@
+# Acting Command Promotion Form
+[color=#1b67a5]░░██░░
+▀████▀ [head=2]Acting Command Promotion[/head]
+▄█▀▀█▄
+[/color]──────────────────────────────────────────
+
+This form is meant for promoting Acting Command members on station, and should not be used for officially hired Command.
+
+[bold]All Command members are required to have a mindshield implant if feasible, to be administered before this form is stamped and signed if possible.[/bold]
+
+All Acting Head of Department promotions should be within their department if possible.
+
+All Acting Captain promotions should prioritize officially hired Command members before Acting Command members, and should be from existing Command members if possible.
+
+[bold]This form is only valid if signed and stamped by the current Captain or Acting Captain, and signed by the promotee.[/bold]
+
+[color=#666666][bold]Name[/bold]: [/color]FULL NAME
+
+[color=#666666][bold]Pronouns[/bold]: [/color]
+  - \[ ] Ey/em
+  - \[ ] He/him
+  - \[ ] It/its
+  - \[ ] She/her
+  - \[ ] They/them
+  - \[ ] Other:
+
+[color=#666666][bold]Age[/bold]: [/color]AGE
+
+[color=#666666][bold]New Position[/bold]:[/color]
+  - \[ ] [color=#1b67a5]Acting Captain[/color]
+  - \[ ] [color=#f39f27]Acting Chief Engineer[/color]
+  - \[ ] [color=#5b97bc]Acting Chief Medical Officer[/color]
+  - \[ ] [color=#9fed58]Acting Head of Personnel[/color]
+  - \[ ] [color=#cb0000]Acting Head of Security[/color]
+  - \[ ] [color=#b18644]Acting Quartermaster[/color]
+  - \[ ] [color=#c96dbf]Acting Research Director[/color]
+
+[color=#666666][bold]Former Position[/bold]: [/color]POSITION
+
+[color=#666666][bold]Reason for Selection[/bold][/color] [color=#888888](mandatory if a non-Command member is selected for Acting Captain, or a cross-department Head promotion is occurring)[/color][color=#666666]:[/color]
+  REASON
