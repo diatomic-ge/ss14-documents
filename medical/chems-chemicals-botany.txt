@@ -8,7 +8,7 @@
 Ammonia - +Nutrition, +Health
   - 200 ammonia
     - 150 hydrogen
-    -  50 oxygen
+    -  50 nitrogen
 
 Cryoxadone - -Toxin, +Health, -Age
   - 200 cryoxadone
@@ -33,11 +33,11 @@ EZ Nutrient - Nutrition 10/5u
 
 Left-4-Zed - +Nutrition, -Health, +Mut. Modifier
   - 200 left-4-zed
-    - 100 ez nutrient
-      - 35 nitrogen
-      - 35 phosphorus
-      - 35 potassium
-    - 100 radium
+    - 200 ez nutrient
+      - 70 nitrogen
+      - 70 phosphorus
+      - 70 potassium
+    -   1 radium
 
 Multiver - -Toxin, +Health
   - 200 multiver
