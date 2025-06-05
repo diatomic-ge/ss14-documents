@@ -5,65 +5,100 @@
 ░░██░░ [head=2]Cheat Sheet[/head]
 [/color]──────────────────────────────────────────
 
-Probital/Libital 1:1 - Brute 37.5/5u - 40u OD
-  - 100 libital
-    - 35 nitrogen
-    - 35 oil
-    - 35 oxygen
-  - 100 probital
-    - 35 acetone
-      - 15 oil
-      - 15 oxygen
-      - 15 welding fuel
-    - 35 copper
-    - 35 phosphorus
+Prob./Lib. 1:1 - Bnt/Prc/Sls 12.5/5u - 40u OD
+  - 100 (90) libital
+    - 35 (30) nitrogen
+    - 35 (30) oil
+    - 35 (30) oxygen
+  - 100 (90) probital
+    - 35 (30) acetone
+      - 15 (10) oil
+      - 15 (10) oxygen
+      - 15 (10) welding fuel
+    - 35 (30) copper
+    - 35 (30) phosphorus
 
-    - 60 oil
-      - 15 carbon
-      - 15 hydrogen
-      - 15 welding fuel
+  - 60 (40) oil
+    - 15 (10) carbon
+    - 15 (10) hydrogen
+    - 15 (10) welding fuel
 
-Aiuri/Lenturi 1:1 - Heat/Shock/Cold 25/5u - 40u OD
-  - 100 aiuri
-    - 35 ammonia
-      - 30 hydrogen
-      - 10 nitrogen
-    - 35 hydrogen
-    - 35 welding fuel
-  - 100 lenturi
-    - 35 chlorine
-    - 35 oxygen
-    - 35 sulfuric acid
-      - 15 hydrogen
-      - 30 oxygen
-      - 15 sulfur
+Or, if you're feeling adventurous, adding salicyclic acid will make it heal faster, and heal better at high damage, at the cost of needing more mix at lower damage:
+
+Prob./Lib./Sal. - Bnt/Prc/Sls 10-15/5u - 46.5u OD
+  - 70 (60) libital
+    - 25 (20) nitrogen
+    - 25 (20) oil
+    - 25 (20) oxygen
+  - 70 (60) probital
+  - 70 (60) salicylic acid
+    - 20 (15) carbon
+    - 20 (15) phenol
+      - 10 (10) hydroxide (heat)
+        - 5 (10) hydrogen
+        - 5 (10) oxygen
+      - 10 (10) benzene (heat)
+        - 10 (10) carbon
+        - 10 (10) hydrogen
+    - 20 (15) probitol
+    - 20 (15) sulfuric acid
+      - 10 ( 5) hydrogen
+      - 20 (10) oxygen
+      - 10 ( 5) sulfur
+
+  - 35 (30) oil
+    - 10 (10) carbon
+    - 10 (10) hydrogen
+    - 10 (10) welding fuel
+  - 90 (75) probitol
+    - 30 (25) acetone
+      - 10 (10) oil
+      - 10 (10) oxygen
+      - 10 (10) welding fuel
+    - 30 (25) copper
+    - 30 (25) phosphorus
+
+Aiuri/Lenturi 1:1 - Heat/Shk/Cold 12.5/5u - 40u OD
+  - 100 (90) aiuri
+    - 35 (30) ammonia
+      - 30 (30) hydrogen
+      - 10 (10) nitrogen
+    - 35 (30) hydrogen
+    - 35 (30) welding fuel
+  - 100 (90) lenturi
+    - 35 (30) chlorine
+    - 35 (30) oxygen
+    - 35 (30) sulfuric acid
+      - 15 (10) hydrogen
+      - 30 (20) oxygen
+      - 15 (10) sulfur
 
 Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
-  - 100 diphenhydramine (heat)
-    - 35 carbon
-    - 35 diethylamine
-      - 20 ammonia
-        - 15 hydrogen
-        -  5 nitrogen
-      - 20 ethanol
-    - 35 ethanol
-    - 35 oil (do not heat alone!)
-    - 35 table salt
-  - 100 multiver
-    - 35 oil
-    - 35 silicon
-    - 35 table salt
+  - 100 (90) diphenhydramine (heat)
+    - 35 (30) carbon
+    - 35 (30) diethylamine
+      - 20 (15) ammonia
+        - 15 (15) hydrogen
+        -  5 ( 5) nitrogen
+      - 20 (15) ethanol
+    - 35 (30) ethanol
+    - 35 (30) oil (do not heat alone!)
+    - 35 (30) table salt
+  - 100 (90) multiver
+    - 35 (30) oil
+    - 35 (30) silicon
+    - 35 (30) table salt
 
-  - 70 table salt (heat)
-    - 35 chlorine
-    - 35 sodium
-  - 70 oil
-    - 20 carbon
-    - 20 hydrogen
-    - 20 welding fuel
+  - 70 (60) table salt (heat)
+    - 35 (30) chlorine
+    - 35 (30) sodium
+  - 70 (60) oil
+    - 20 (15) carbon
+    - 20 (15) hydrogen
+    - 20 (15) welding fuel
 
 Sigynate - Caustic 30/5u - 16u OD
-  - 200 sigynate (heat)
+  - 200 sigynate (heat, do not mix hot)
     - 50 lenturi
       - 20 chlorine
       - 20 oxygen
@@ -89,6 +124,7 @@ Sigynate - Caustic 30/5u - 16u OD
     - 50 water
 
 Arith-Pot 20u - Radiation 100, Brute -10 - Bleed
+Arithrazine 5u - Radiation 50, Brute -5 - Bleed
 Arithrazine - Radiation 50/5u, Brute -5/5u - Bleed
   - 200 arithrazine
     - 100 hydrogen
@@ -98,18 +134,63 @@ Arithrazine - Radiation 50/5u, Brute -5/5u - Bleed
         - 25 potassium
       - 50 radium
 
-Phalanximine - Genetic 12.5/5u, Radiation -12.5/5u
-  - 200 phalanximine
-    - 70 ethanol
-    - 70 hyronalin
-      - 35 potassium iodide
+If you want to also treat the brute damage caused by arithrazine, consider adding granibitulari specifically since it metabolizes slowly, and a small amount will take as long as the arithrazine to metabolize, while also healing minor amounts of other damages:
+
+Arith./Gran. 4:1 - Radiation 40/5u - Bleed
+  - 160 arithrazine
+    - 80 hydrogen
+    - 80 hyronalin
+      - 40 potassium iodide
         - 20 iodine
         - 20 potassium
-      - 35 radium
-    - 70 unstable mutagen
-      - 25 chlorine
-      - 25 phosphorus
-      - 25 radium
+      - 40 radium
+  -  40 granibitulari
+    - 15 carbon
+    - 15 potassium
+    - 15 table salt (heat)
+      - 10 chlorine
+      - 10 sodium
+
+Phalanximine - Genetic 12.5/5u, Radiation -12.5/5u
+  - 200 (180) phalanximine
+    - 70 (60) ethanol
+    - 70 (60) hyronalin
+      - 35 (30) potassium iodide
+        - 20 (15) iodine
+        - 20 (15) potassium
+      - 35 (30) radium
+    - 70 (60) unstable mutagen
+      - 25 (20) chlorine
+      - 25 (20) phosphorus
+      - 25 (20) radium
+
+I can't find a good phalanximine-arithrazine mix, since ideally, you'd want a 4:1 ratio, but phalanximine metabolizes only twice as fast, so a 4:1 ratio would lead to the arithrazine working its way out of your system while the phalanximine is still working.
+If you just want a mix that's easy to use fast but inefficient instead of dosing the arithrazine after, however, a recipe is included.
+This makes 195 units total, as mixing 260 units at an odd ratio will likely be more tedious than you want:
+
+Phal./Arith./Gran. 8:4:1 - Gen./Rad. 7.69/5u
+  -  60 arithrazine
+    - 30 hydrogen
+    - 30 hyronalin
+  -  15 granibitulari
+    - 5 carbon
+    - 5 potassium
+    - 5 table salt (heat)
+      - 5 chlorine
+      - 5 sodium
+  - 120 phalanximine
+    - 40 ethanol
+    - 40 hyronalin
+    - 40 unstable mutagen
+      - 15 chlorine
+      - 15 phosphorus
+      - 15 radium
+
+  - 70 hyronalin
+    - 35 potassium iodide
+      - 20 iodine
+      - 20 potassium
+    - 35 radium
 
 Dexalin/Salb. 1:1 - Airloss 37.5-100/5u - 31u OD
   - 100 dexalin (careful of overflow!)

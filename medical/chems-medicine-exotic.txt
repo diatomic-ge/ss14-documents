@@ -162,12 +162,6 @@ Precursors (in order):
       - 400 razorium
       - 400 unstable mutagen
 
-Example dosages:
-   5u: Brt  37.5, Brn  50, Air 25
-  10u: Brt  75,   Brn 100, Air 50
-  15u: Brt 112.5, Brn 150, Air 75
-
-A single syringe is more than enough to get a crit person moving out of danger fast.
 
 Revivopine - Brt 37.5, Brn 50, Air 25/5u - Crit
   - 200 revivopine
@@ -177,15 +171,60 @@ Revivopine - Brt 37.5, Brn 50, Air 25/5u - Crit
     - 200 salbutamol
 
 Example dosages:
-  15u: Brt  90,   Tox  80, Brn 120, Air 120, Uncon. 40s
-  20u: Brt 202.5, Tox 180, Brn 270, Air 270, Uncon. 90s
+   5u: Brt  37.5,  Brn  50, Air 25
+  10u: Brt  75,    Brn 100, Air 50
+  15u: Brt 112.5,  Brn 150, Air 75
 
-15u is enough for most things.
-20u (fits in a pill) is enough for basically anything but genetic, if you're alive.
+   5u: Bln/Sls/Pir/Het/Shk/Col/Cau/Asp/Bld 12.5
+  10u: Bln/Sls/Pir/Het/Shk/Col/Cau/Asp/Bld 25
+  15u: Bln/Sls/Pir/Het/Shk/Col/Cau/Asp/Bld 37.5
 
+A single syringe is often enough to get a crit person moving out of danger fast, although likely less is generally needed.
+
+This will not work on toxin or genetic damages.
+
+Mixes made to be used on people by the syringe to conserve revivopine, slow bleeding, and give a little adrenaline/speed to help people get up and run:
+
+Rev./Epi./Tran. 3:2:1 - syringe on crit, no toxin
+  - 75 revivopine
+  - 50 epinephrine
+  - 25 tranexamic acid
+
+Example dosages:
+   5u: Brt 21.25, Brn 28.33, Asp 22.92, Bld  6.25, Adr  41.6s
+  10u: Brt 42.5,  Brn 56.67, Asp 45.83, Bld 12.5,  Adr  83.3s
+  15u: Brt 63.75, Brn 85,    Asp 68.75, Bld 18.75, Adr 125  s
+
+   5u: Bln/Sls/Pir/Het/Shk/Col/Cau  7.08, Asp 22.92, Bld  6.25, Adr  41.6s
+  10u: Bln/Sls/Pir/Het/Shk/Col/Cau 14.17, Asp 45.83, Bld 12.5,  Adr  83.3s
+  15u: Bln/Sls/Pir/Het/Shk/Col/Cau 21.25, Asp 68.75, Bld 18.75, Adr 125  s
+
+Rev./Epi./Tran. 10:3:2 - syringe on crit, no toxin
+  - 100 revivopine
+  -  30 epinephrine
+  -  20 tranexamic acid
+
+Example dosages:
+   5u: Brt 26.5, Brn  35.33, Asp 18.33, Bld  8.33, Adr 25s
+  10u: Brt 53,   Brn  70.67, Asp 36.67, Bld 16.67, Adr 50s
+  15u: Brt 79.5, Brn 106,    Asp 55,    Bld 25,    Adr 75s
+
+   5u: Bln/Sls/Pir/Het/Shk/Col/Cau  8.83, Asp 18.33, Bld  8.33, Adr 25s
+  10u: Bln/Sls/Pir/Het/Shk/Col/Cau 16.67, Asp 36.67, Bld 16.67, Adr 50s
+  15u: Bln/Sls/Pir/Het/Shk/Col/Cau 26.5,  Asp 55,    Bld 25,    Adr 75s
+
+
+Stas. 20u - Brt/Tox/Brn/Air - Uncon. 90s
 Stas. - Brt/Tox/Brn/Air - 11+u - Uncon. 50s/5u
   - 200 stasicillin
     - 200 chloral hydrate
     - 200 cryoxadone
     - 200 liquid exotium
     - 200 saline
+
+Example dosages:
+  15u: Brt  90,   Tox  80, Brn 120, Air 120, Uncon. 40s
+  20u: Brt 202.5, Tox 180, Brn 270, Air 270, Uncon. 90s
+
+15u is enough for most things.
+20u (fits in a pill) is enough for basically anything but genetic, if you're alive.

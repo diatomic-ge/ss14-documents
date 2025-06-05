@@ -27,93 +27,146 @@ Epi. - Brn 11 Bru 7.5 Asp 50 Poi 12.5/5u - 20u OD
       - 40 oxygen
 
 Tranexamic Acid - Reduce bleeding - 15u OD
-  - 200 tranexamic acid
-    - 70 inaprovaline
-      - 25 carbon
-      - 25 oxygen
-      - 25 sugar
-    - 70 sugar
-    - 70 sulfuric acid
-      - 25 hydrogen
-      - 50 oxygen
-      - 25 sulfur
+  - 200 (180) tranexamic acid
+    - 70 (60) inaprovaline
+      - 25 (20) carbon
+      - 25 (20) oxygen
+      - 25 (20) sugar
+    - 70 (60) sugar
+    - 70 (60) sulfuric acid
+      - 25 (20) hydrogen
+      - 50 (40) oxygen
+      - 25 (20) sulfur
 
-Granibitulari 20u - Bru 120, Poi/Heat/Shk/Cold 40
-Granibitulari - Bru 30, Poi/Heat/Shk/Cold 10/5u
-  - 200 granibitulari
-    - 70 carbon
-    - 70 potassium
-    - 70 table salt
-      - 35 chlorine
-      - 35 sodium
+Gran. 20u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 40
+Gran. - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 10/5u
+  - 200 (180) granibitulari
+    - 70 (60) carbon
+    - 70 (60) potassium
+    - 70 (60) table salt (heat)
+      - 35 (30) chlorine
+      - 35 (30) sodium
+
+Anodynafil - Anes 40s, Anlg 80s, Slow 20s/5u
+  - 200 (180) anodynafil (heat)
+    - 70 (60) ethanol
+    - 70 (60) iodine
+    - 70 (60) salicylic acid
+      - 20 (15) carbon
+      - 20 (15) phenol
+        - 10 (10) benzene (heat)
+          - 10 (10) carbon
+          - 10 (10) hydrogen
+        - 10 (10) hydroxide (heat)
+          - 5 (5) hydrogen
+          - 5 (5) oxygen
+      - 20 (15) probital
+        - 10 (5) acetone
+          - 5 (5) oil
+            - 5 (5) carbon
+            - 5 (5) hydrogen
+            - 5 (5) welding fuel
+          - 5 (5) oxygen
+          - 5 (5) welding fuel
+        - 10 (5) copper
+        - 10 (5) phosphorus
+      - 20 (15) sulfuric acid
+        - 10 ( 5) hydrogen
+        - 20 (10) oxygen
+        - 10 ( 5) sulfur
 
 Ethylredoxrazine - Poison 5, Drunk -600s/5u
-  - 200 ethylredoxrazine
-    - 70 carbon
-    - 70 multiver
-      - 25 oil
-        - 10 carbon
-        - 10 hydrogen
-        - 10 welding fuel
-      - 25 silicon
-      - 25 table salt (heat)
-        - 15 chlorine
-        - 15 sodium
-    - 70 oxygen
+  - 200 (180) ethylredoxrazine
+    - 70 (60) carbon
+    - 70 (60) multiver
+      - 25 (20) oil
+        - 10 ( 5) carbon
+        - 10 ( 5) hydrogen
+        - 10 ( 5) welding fuel
+      - 25 (20) silicon
+      - 25 (20) table salt (heat)
+        - 15 (10) chlorine
+        - 15 (10) sodium
+    - 70 (60) oxygen
 
-  - 100 ethylredoxrazine
-    - 35 carbon
-    - 35 multiver
-      - 15 silicon
-      - 15 oil
-        - 5 carbon
-        - 5 hydrogen
-        - 5 welding fuel
-      - 15 table salt (heat)
-        - 10 chlorine
-        - 10 sodium
-    - 35 oxygen
+  - 100 (90) ethylredoxrazine
+    - 35 (30) carbon
+    - 35 (30) multiver
+      - 15 (10) silicon
+      - 15 (10) oil
+        - 5 (5) carbon
+        - 5 (5) hydrogen
+        - 5 (5) welding fuel
+      - 15 (10) table salt (heat)
+        - 10 (5) chlorine
+        - 10 (5) sodium
+    - 35 (30) oxygen
 
-  - 50 ethylredoxrazine
-    - 20 carbon
-    - 20 multiver
-      - 10 silicon
-      - 10 oil
-        - 5 carbon
-        - 5 hydrogen
-        - 5 welding fuel
-      - 10 table salt (heat)
-        - 5 chlorine
-        - 5 sodium
-    - 20 oxygen
+  - 50 (45) ethylredoxrazine
+    - 20 (15) carbon
+    - 20 (15) multiver
+      - 10 (5) silicon
+      - 10 (5) oil
+        - 5 (5) carbon
+        - 5 (5) hydrogen
+        - 5 (5) welding fuel
+      - 10 (5) table salt (heat)
+        - 5 (5) chlorine
+        - 5 (5) sodium
+    - 20 (15) oxygen
+
+Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
+  - 200 haloperidol
+    - 40 aluminium
+    - 40 chlorine
+    - 40 fluorine
+    - 40 oil
+      - 10 carbon
+      - 10 hydrogen
+      - 10 welding fuel
+    - 40 potassium iodide
+      - 20 iodine
+      - 20 potassium
 
 Chloral hydrate - Anesthesia 10+u - 20u OD
-  - 200 chloral hydrate
-    - 210 chlorine
-    -  70 ethanol
-    -  70 water
+  - 200 (180) chloral hydrate
+    - 210 (180) chlorine
+    -  70 (60) ethanol
+    -  70 (60) water
 
-  - 100 chloral hydrate
-    - 105 chlorine
-    -  35 ethanol
-    -  35 water
+  - 100 (90) chloral hydrate
+    - 105 (90) chlorine
+    -  35 (30) ethanol
+    -  35 (30) water
 
-  -  50 chloral hydrate
-    -  60 chlorine
-    -  20 ethanol
-    -  20 water
+  -  50 (45) chloral hydrate
+    -  60 (45) chlorine
+    -  20 (15) ethanol
+    -  20 (15) water
 
+Psicodone 10u - -Anx, Drunk -60s, Jit -40s
 Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
-  - 200 psicodone
-    -  50 impedrezene (heat)
-      - 50 mercury
-      - 50 oxygen
-      - 50 water
-    - 100 mannitol
-      - 35 hydrogen
-      - 35 sugar
-      - 35 water
-    - 100 water
+  - 200 (180) psicodone
+    -  50 (45) impedrezene (heat)
+      - 50 (45) mercury
+      - 50 (45) oxygen
+      - 50 (45) water
+    - 100 (90) mannitol
+      - 35 (30) hydrogen
+      - 35 (30) sugar
+      - 35 (30) water
+    - 100 (90) water
+
+  - 100 (80) psicodone
+    - 25 (20) impedrezene (heat)
+      - 25 (20) mercury
+      - 25 (20) oxygen
+      - 25 (20) water
+    - 50 (40) mannitol
+      - 20 (15) hydrogen
+      - 20 (15) sugar
+      - 20 (15) water
+    - 50 (40) water
 
 Oculine - Eye damage
   - 200 oculine
@@ -207,3 +260,100 @@ Bruizine - Blunt 25/5u - 10.5u OD - 20u Gorilla
       - 10 oxygen
     - 22.5 lithium
     - 25   sugar
+
+Lacerinol - Slash 25/5u - 12u OD
+  - 200 (180) lacerinol (heat)
+    - 100 (90) benzene (heat)
+      - 100 (45) carbon
+      - 100 (45) hydrogen
+    - 100 (90) libital
+      - 35 (30) nitrogen
+      - 35 (30) oil
+        - 10 (10) carbon
+        - 10 (10) hydrogen
+        - 10 (10) welding fuel
+      - 35 (30) oxygen
+
+Puncturase - Pierce 25/5u - 11u OD
+  - 200 (180) puncturase (heat)
+    - 100 (90) hydroxide (heat)
+      - 50 (45) hydrogen
+      - 50 (45) oxygen
+    - 100 (90) libital
+      - 35 (30) nitrogen
+      - 35 (30) oil
+        - 10 (10) carbon
+        - 10 (10) hydrogen
+        - 10 (10) welding fuel
+      - 35 (30) oxygen
+
+Doc.'s Delight - Burn/Air/Brute/Toxin 10/5u - Alc.
+  - 200 the doctor's delight (stir)
+    - 70 cream
+    - 35 lime juice
+    - 35 orange juice
+    - 35 tomato juice
+    - 35 tricordrazine
+      - 20 inaprovaline
+        - 10 carbon
+        - 10 oxygen
+        - 10 sugar
+      - 20 multiver
+        - 10 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 10 silicon
+        - 10 table salt
+          - 5 chlorine
+          - 5 sodium
+
+Diphenylmethylamine 5u - Narcolepsy, 10 minutes
+Diphenylmethylamine - 10m narc 5u+, 100s drow/5u
+  - 200 (180) diphenylmethylamine
+    - 70 (60) coffee
+    - 70 (60) ethyloxyephedrine
+      - 35 (30) desoxyephedrine (heat)
+        - 10 (10) carbon
+        - 10 (10) ephedrine
+          - 5 (5) diethylamine
+            - 5 (5) ammonia
+              - 15 (15) hydrogen
+              -  5 ( 5) nitrogen
+            - 5 (5) ethanol
+          - 5 (5) hydrogen
+          - 5 (5) oil
+            - 5 (5) carbon
+            - 5 (5) hydrogen
+            - 5 (5) welding fuel
+          - 5 (5) sugar
+        - 10 (10) iodine
+        - 10 (10) phosphorus
+      - 35 (30) stellibinin (galaxythistle)
+    - 70 (60) sodium carbonate
+      - 20 (15) ammonia
+        - 15 (15) hydrogen
+        -  5 ( 5) nitrogen
+      - 20 (15) carbon
+      - 20 (15) oxygen
+      - 20 (15) table salt (heat)
+        - 10 (10) chlorine
+        - 10 (10) sodium
+
+Plastic
+  - 10 plastic
+    - 30 ash (grind)
+      - 3 paper (burn)
+    - 50 oil
+      - 15 carbon
+      - 15 hydrogen
+      - 15 welding fuel
+    - 20 sulfuric acid
+      - 10 hydrogen
+      - 20 oxygen
+      - 10 sulfur
+
+Omnizine 20u - All but genetic 32
+Omnizine - All but genetic 8/5u
+
+Poly. - Bnt/Prc/Sls 33.3, Asp 75/5u - 30u OD
