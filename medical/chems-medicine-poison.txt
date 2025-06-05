@@ -1,0 +1,48 @@
+# Poisons
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Poisons[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Pestiline - -100 Gen/5u - slow
+  - 40 pestiline
+    - 40 arithrazine
+      - 20 hydrogen
+      - 20 hyronalin
+        - 10 potassium iodide
+          - 5 potassium
+          - 5 iodine
+        - 10 radium
+    - 20 salbutamol
+      - 5 dexalin
+        - 10 oxygen
+        -  5 plasma
+      - 5 inaprovaline
+        - 5 carbon
+        - 5 oxygen
+        - 5 sugar
+      - 5 phenol
+        - 5 benzene (heat)
+          - 5 carbon
+          - 5 hydrogen
+        - 5 hydroxide (heat)
+          - 5 hydrogen
+          - 5 oxygen
+      - 5 lithium
+    - 20 pentetic acid
+      - 5 ethanol
+      - 5 multiver
+        - 5 oil
+        - 5 silicon
+        - 5 table salt (heat)
+          - 5 chlorine
+          - 5 sodium
+      - 5 oil
+      - 5 plasma
+      - 5 silicon
+
+  - 10 oil
+    - 5 carbon
+    - 5 hydrogen
+    - 5 welding fuel
