@@ -6,14 +6,17 @@
 To produce more medicines and chemicals, the medical department requests the following:
 
 Chemicals
-  - \[ ] 1x ChemVend restock
-  - \[ ] 30-120x Unrefined salt
+  - \[ ] 3x ChemVend restock
+  - \[ ] 120x Unrefined salt
+  - \[ ] 3x chemicals crate (P)
+  - \[ ] 8x solid plasma
 
 Urgency:
   - \[ ] Immediately (significant / important casualties)
   - \[ ] Urgently (casualties)
   - \[ ] When possible (injury / likely casualties)
   - \[ ] When convenient (no urgency)
+  - \[ ] If able (not crucial)
 
 ──────────────────────────────────────────
 Sincerely, Selena Moon.
