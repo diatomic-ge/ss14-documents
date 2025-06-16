@@ -192,7 +192,7 @@ Phal./Arith./Gran. 8:4:1 - Gen./Rad. 7.69/5u
       - 20 potassium
     - 35 radium
 
-Dexalin/Salb. 1:1 - Airloss 37.5-100/5u - 31u OD
+Dexalin/Salb. 1:1 - Asph/Bld 18.75-50/5u - 31u OD
   - 100 dexalin (careful of overflow!)
   - 100 salbutamol
     - 25 dexalin

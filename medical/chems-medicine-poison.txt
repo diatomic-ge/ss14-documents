@@ -5,7 +5,7 @@
 ░░██░░ [head=2]Cheat Sheet[/head]
 [/color]──────────────────────────────────────────
 
-Pestiline - -100 Gen/5u - slow
+Pestiline - Genetic -100/5u - 250s/5u
   - 40 pestiline
     - 40 arithrazine
       - 20 hydrogen
@@ -46,3 +46,14 @@ Pestiline - -100 Gen/5u - slow
     - 5 carbon
     - 5 hydrogen
     - 5 welding fuel
+
+
+Heartbreaker Toxin - Asphyx -50/5u - 10s/5u
+  - 100 mindbreaker toxin
+  - 100 salbutamol
+
+Lexorin - Asphyx/Bloodloss -50/5u - 10s/5u
+  - 20 lexorin
+    - 10 heartbreaker toxin
+    - 10 plasma
+    - 10 vestine

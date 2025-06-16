@@ -1,0 +1,149 @@
+# Specialty Brute/Burn Medicines
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Specialty Brute/Burn Medicine[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Bruizine - Blunt 25/5u - 10.5u OD - DON'T MIX!
+  - 200 bruizine
+    - 100 libital
+      - 35 nitrogen
+      - 35 oil
+        - 10 carbon
+        - 10 hydrogen
+        - 10 welding fuel
+      - 35 oxygen
+    -  90 lithium
+    - 100 sugar
+
+  - 100 bruizine
+    - 50 libital
+      - 20 nitrogen
+      - 20 oil
+        - 5 carbon
+        - 5 hydrogen
+        - 5 welding fuel
+      - 20 oxygen
+    - 45 lithium
+    - 50 sugar
+
+  - 50 bruizine
+    - 25   libital
+      - 10 nitrogen
+      - 10 oil
+        - 5 carbon
+        - 5 hydrogen
+        - 5 welding fuel
+      - 10 oxygen
+    - 22.5 lithium
+    - 25   sugar
+
+Lacerinol - Slash 25/5u - 12u OD - DON'T MIX!
+  - 200 (180) lacerinol (heat)
+    - 100 (90) benzene (heat)
+      - 100 (90) carbon
+      - 100 (90) hydrogen
+    - 100 (90) libital
+      - 35 (30) nitrogen
+      - 35 (30) oil
+        - 10 (10) carbon
+        - 10 (10) hydrogen
+        - 10 (10) welding fuel
+      - 35 (30) oxygen
+
+Puncturase - Pierce 25/5u - 11u OD - DON'T MIX!
+  - 200 (180) puncturase (heat)
+    - 100 (90) hydroxide (heat)
+      - 50 (45) hydrogen
+      - 50 (45) oxygen
+    - 100 (90) libital
+      - 35 (30) nitrogen
+      - 35 (30) oil
+        - 10 (10) carbon
+        - 10 (10) hydrogen
+        - 10 (10) welding fuel
+      - 35 (30) oxygen
+
+Salic. - Bnt/Prc/Sls 5-20/5u - 15u OD - DON'T MIX!
+  - 200 salicylic acid
+    - 50 carbon
+    - 50 phenol
+      - 25 benzene (heat)
+        - 25 carbon
+        - 25 hydrogen
+      - 25 hydroxide (heat)
+        - 15 hydrogen
+        - 15 oxygen
+    - 50 probital
+      - 20 acetone
+        - 10 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 10 oxygen
+        - 10 welding fuel
+      - 20 copper
+      - 20 phosphorus
+    - 50 sulfuric acid
+      - 20 hydrogen
+      - 40 oxygen
+      - 20 sulfur
+
+Pyrazine - Heat 25/5u - 15u OD - DON'T MIX!
+  - 200 (180) pyrazine (heat 540k)
+    - 70 (60) aiuri
+      - 25 (20) ammonia
+        - 30 (15) hydrogen
+        - 10 ( 5) nitrogen
+      - 25 (20) hydrogen
+      - 25 (20) welding fuel
+    - 70 (60) carbon
+    - 70 (60) leporazine
+      - 35 (30) copper
+      - 35 (30) fersilicite (heat 310k)
+        - 20 (15) iron
+        - 20 (15) silicon
+      -  1 ( 1) plasma
+
+Leporazine - Cold 25/5u - Stab. Temp. - DON'T MIX!
+  - 200 leporazine
+    - 100 copper
+    - 100 fersilicite (heat)
+      - 50 iron
+      - 50 silicon
+    -   1 plasma
+
+Insuzine - Shock 50/5u - DON'T MIX!
+  - 200 (180) insuzine (heat)
+    - 70 (60) aiuri
+      - 25 (20) ammonia
+        - 30 (15) hydrogen
+        - 10 ( 5) nitrogen
+      - 25 (20) hydrogen
+      - 25 (20) welding fuel
+    - 70 (60) leporazine
+      - 35 (30) copper
+      - 35 (30) fersilicite (heat)
+        - 20 (15) iron
+        - 20 (15) silicon
+      -  1 ( 1) plasma
+    - 70 (60) silicon
+
+Oxan. - Ht/Shk/Cld 5-20/5u - 15.5u OD - DON'T MIX!
+  - 200 oxandrolone
+    - 100 carbon
+    -  50 lenturi
+      - 20 chlorine
+      - 20 oxygen
+      - 20 sulfuric acid
+        - 10 hydrogen
+        - 20 oxygen
+        - 10 sulfur
+    -  50 phenol
+      - 25 benzene (heat)
+        - 25 carbon
+        - 25 hydrogen
+      - 25 hydroxide (heat)
+        - 15 hydrogen
+        - 15 oxygen

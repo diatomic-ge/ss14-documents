@@ -1,0 +1,176 @@
+# Emergency/Surgery Medicines
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Emergency/Surgery Medication[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+Epi. - Brn 11 Bru 7.5 Asp 50 Poi 12.5/5u - 20u OD
+  - 200 epinephrine
+    - 50 acetone
+      - 20 oil
+        - 5 carbon
+        - 5 hydrogen
+        - 5 welding fuel
+      - 20 oxygen
+      - 20 welding fuel
+    - 50 chlorine
+    - 50 hydroxide
+    - 50 phenol
+      - 25 benzene (heat)
+        - 25 carbon
+        - 25 hydrogen
+      - 25 hydroxide
+
+    - 75 hydroxide (heat)
+      - 40 hydrogen
+      - 40 oxygen
+
+Tranexamic Acid - Reduce bleeding - 15u OD
+  - 200 (180) tranexamic acid
+    - 70 (60) inaprovaline
+      - 25 (20) carbon
+      - 25 (20) oxygen
+      - 25 (20) sugar
+    - 70 (60) sugar
+    - 70 (60) sulfuric acid
+      - 25 (20) hydrogen
+      - 50 (40) oxygen
+      - 25 (20) sulfur
+
+Anodynafil - Anes. 40s, Analg. 80s, Slow 20s/5u
+  - 200 anodynafil (heat 400k)
+    - 50 ethanol
+    - 50 iodine
+    - 50 salicylic acid
+      - 15 carbon
+      - 15 phenol
+        - 10 benzene (heat 310K)
+          - 10 carbon
+          - 10 hydrogen
+        - 10 hydroxide (heat 310K)
+          - 5 hydrogen
+          - 5 oxygen
+      - 15 probital
+        - 5 acetone
+          - 5 oil
+            - 5 carbon
+            - 5 hydrogen
+            - 5 welding fuel
+          - 5 oxygen
+          - 5 welding fuel
+        - 5 copper
+        - 5 phosphorus
+      - 15 sulfuric acid
+
+Chloral hydrate - Anesthesia 10+u - 20u OD
+  - 200 (180) chloral hydrate
+    - 210 (180) chlorine
+    -  70 (60) ethanol
+    -  70 (60) water
+
+  - 100 (90) chloral hydrate
+    - 105 (90) chlorine
+    -  35 (30) ethanol
+    -  35 (30) water
+
+  -  50 (45) chloral hydrate
+    -  60 (45) chlorine
+    -  20 (15) ethanol
+    -  20 (15) water
+
+Pent. - Poison 37.5/5u, Removes Chems - 15.5u OD
+  - 200 pentetic acid
+    - 40 ethanol
+    - 40 multiver
+      - 15 oil
+      - 15 silicon
+      - 15 table salt (heat)
+        - 10 chlorine
+        - 10 sodium
+    - 40 oil
+    - 40 plasma (grind 4 plasma, condense plasma gas)
+    - 40 silicon
+
+    - 55 oil
+      - 15 carbon
+      - 15 hydrogen
+      - 15 welding fuel
+
+Ethylredoxrazine 10u - Poison 10, Drunk -20 min
+Ethylredoxrazine - Poison 5, Drunk -10 min/5u
+  - 200 (180) ethylredoxrazine
+    - 70 (60) carbon
+    - 70 (60) multiver
+      - 25 (20) oil
+        - 10 ( 5) carbon
+        - 10 ( 5) hydrogen
+        - 10 ( 5) welding fuel
+      - 25 (20) silicon
+      - 25 (20) table salt (heat)
+        - 15 (10) chlorine
+        - 15 (10) sodium
+    - 70 (60) oxygen
+
+  - 100 (90) ethylredoxrazine
+    - 35 (30) carbon
+    - 35 (30) multiver
+      - 15 (10) silicon
+      - 15 (10) oil
+        - 5 (5) carbon
+        - 5 (5) hydrogen
+        - 5 (5) welding fuel
+      - 15 (10) table salt (heat)
+        - 10 (5) chlorine
+        - 10 (5) sodium
+    - 35 (30) oxygen
+
+  - 50 (45) ethylredoxrazine
+    - 20 (15) carbon
+    - 20 (15) multiver
+      - 10 (5) silicon
+      - 10 (5) oil
+        - 5 (5) carbon
+        - 5 (5) hydrogen
+        - 5 (5) welding fuel
+      - 10 (5) table salt (heat)
+        - 5 (5) chlorine
+        - 5 (5) sodium
+    - 20 (15) oxygen
+
+Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
+  - 200 haloperidol
+    - 40 aluminium
+    - 40 chlorine
+    - 40 fluorine
+    - 40 oil
+      - 10 carbon
+      - 10 hydrogen
+      - 10 welding fuel
+    - 40 potassium iodide
+      - 20 iodine
+      - 20 potassium
+
+Psicodone 10u - -Anx, Drunk -60s, Jit -40s
+Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
+  - 200 (180) psicodone
+    -  50 (45) impedrezene (heat)
+      - 50 (45) mercury
+      - 50 (45) oxygen
+      - 50 (45) water
+    - 100 (90) mannitol
+      - 35 (30) hydrogen
+      - 35 (30) sugar
+      - 35 (30) water
+    - 100 (90) water
+
+  - 100 (80) psicodone
+    - 25 (20) impedrezene (heat)
+      - 25 (20) mercury
+      - 25 (20) oxygen
+      - 25 (20) water
+    - 50 (40) mannitol
+      - 20 (15) hydrogen
+      - 20 (15) sugar
+      - 20 (15) water
+    - 50 (40) water

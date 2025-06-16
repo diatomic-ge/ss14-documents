@@ -5,38 +5,7 @@
 ░░██░░ [head=2]Cheat Sheet[/head]
 [/color]──────────────────────────────────────────
 
-Epi. - Brn 11 Bru 7.5 Asp 50 Poi 12.5/5u - 20u OD
-  - 200 epinephrine
-    - 50 acetone
-      - 20 oil
-        - 5 carbon
-        - 5 hydrogen
-        - 5 welding fuel
-      - 20 oxygen
-      - 20 welding fuel
-    - 50 chlorine
-    - 50 hydroxide
-    - 50 phenol
-      - 25 benzene (heat)
-        - 25 carbon
-        - 25 hydrogen
-      - 25 hydroxide
-
-    - 75 hydroxide (heat)
-      - 40 hydrogen
-      - 40 oxygen
-
-Tranexamic Acid - Reduce bleeding - 15u OD
-  - 200 (180) tranexamic acid
-    - 70 (60) inaprovaline
-      - 25 (20) carbon
-      - 25 (20) oxygen
-      - 25 (20) sugar
-    - 70 (60) sugar
-    - 70 (60) sulfuric acid
-      - 25 (20) hydrogen
-      - 50 (40) oxygen
-      - 25 (20) sulfur
+[color=#86b4d8][head=2]Useful Pills[/head][/color]
 
 Gran. 20u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 40
 Gran. - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 10/5u
@@ -47,127 +16,7 @@ Gran. - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 10/5u
       - 35 (30) chlorine
       - 35 (30) sodium
 
-Anodynafil - Anes 40s, Anlg 80s, Slow 20s/5u
-  - 200 (180) anodynafil (heat)
-    - 70 (60) ethanol
-    - 70 (60) iodine
-    - 70 (60) salicylic acid
-      - 20 (15) carbon
-      - 20 (15) phenol
-        - 10 (10) benzene (heat)
-          - 10 (10) carbon
-          - 10 (10) hydrogen
-        - 10 (10) hydroxide (heat)
-          - 5 (5) hydrogen
-          - 5 (5) oxygen
-      - 20 (15) probital
-        - 10 (5) acetone
-          - 5 (5) oil
-            - 5 (5) carbon
-            - 5 (5) hydrogen
-            - 5 (5) welding fuel
-          - 5 (5) oxygen
-          - 5 (5) welding fuel
-        - 10 (5) copper
-        - 10 (5) phosphorus
-      - 20 (15) sulfuric acid
-        - 10 ( 5) hydrogen
-        - 20 (10) oxygen
-        - 10 ( 5) sulfur
-
-Ethylredoxrazine - Poison 5, Drunk -600s/5u
-  - 200 (180) ethylredoxrazine
-    - 70 (60) carbon
-    - 70 (60) multiver
-      - 25 (20) oil
-        - 10 ( 5) carbon
-        - 10 ( 5) hydrogen
-        - 10 ( 5) welding fuel
-      - 25 (20) silicon
-      - 25 (20) table salt (heat)
-        - 15 (10) chlorine
-        - 15 (10) sodium
-    - 70 (60) oxygen
-
-  - 100 (90) ethylredoxrazine
-    - 35 (30) carbon
-    - 35 (30) multiver
-      - 15 (10) silicon
-      - 15 (10) oil
-        - 5 (5) carbon
-        - 5 (5) hydrogen
-        - 5 (5) welding fuel
-      - 15 (10) table salt (heat)
-        - 10 (5) chlorine
-        - 10 (5) sodium
-    - 35 (30) oxygen
-
-  - 50 (45) ethylredoxrazine
-    - 20 (15) carbon
-    - 20 (15) multiver
-      - 10 (5) silicon
-      - 10 (5) oil
-        - 5 (5) carbon
-        - 5 (5) hydrogen
-        - 5 (5) welding fuel
-      - 10 (5) table salt (heat)
-        - 5 (5) chlorine
-        - 5 (5) sodium
-    - 20 (15) oxygen
-
-Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
-  - 200 haloperidol
-    - 40 aluminium
-    - 40 chlorine
-    - 40 fluorine
-    - 40 oil
-      - 10 carbon
-      - 10 hydrogen
-      - 10 welding fuel
-    - 40 potassium iodide
-      - 20 iodine
-      - 20 potassium
-
-Chloral hydrate - Anesthesia 10+u - 20u OD
-  - 200 (180) chloral hydrate
-    - 210 (180) chlorine
-    -  70 (60) ethanol
-    -  70 (60) water
-
-  - 100 (90) chloral hydrate
-    - 105 (90) chlorine
-    -  35 (30) ethanol
-    -  35 (30) water
-
-  -  50 (45) chloral hydrate
-    -  60 (45) chlorine
-    -  20 (15) ethanol
-    -  20 (15) water
-
-Psicodone 10u - -Anx, Drunk -60s, Jit -40s
-Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
-  - 200 (180) psicodone
-    -  50 (45) impedrezene (heat)
-      - 50 (45) mercury
-      - 50 (45) oxygen
-      - 50 (45) water
-    - 100 (90) mannitol
-      - 35 (30) hydrogen
-      - 35 (30) sugar
-      - 35 (30) water
-    - 100 (90) water
-
-  - 100 (80) psicodone
-    - 25 (20) impedrezene (heat)
-      - 25 (20) mercury
-      - 25 (20) oxygen
-      - 25 (20) water
-    - 50 (40) mannitol
-      - 20 (15) hydrogen
-      - 20 (15) sugar
-      - 20 (15) water
-    - 50 (40) water
-
+Oculine 10u - Eye damage
 Oculine - Eye damage
   - 200 oculine
     -  50 blood
@@ -196,117 +45,11 @@ Oculine - Eye damage
       - 10 chlorine
       - 10 sodium
 
+Potassium Iodide 20u - Rad. Proph. 200s - 20u OD
 Potassium Iodide - Rad. Proph. 50s/5u - 20u OD
   - 200 potassium iodide
     - 100 iodine
     - 100 potassium
-
-Leporazine - Cold 25/5u - Stabilized Temperature
-  - 200 leporazine
-    - 100 copper
-    - 100 fersilicite (heat)
-      - 50 iron
-      - 50 silicon
-    -   1 plasma
-
-Pent. - Poison 37.5/5u, Removes Chems - 15.5u OD
-  - 200 pentetic acid
-    - 40 ethanol
-    - 40 multiver
-      - 15 oil
-      - 15 silicon
-      - 15 table salt (heat)
-        - 10 chlorine
-        - 10 sodium
-    - 40 oil
-    - 40 plasma (grind 4 plasma, condense plasma gas)
-    - 40 silicon
-
-    - 55 oil
-      - 15 carbon
-      - 15 hydrogen
-      - 15 welding fuel
-
-Bruizine - Blunt 25/5u - 10.5u OD - 20u Gorilla
-  - 200 bruizine
-    - 100 libital
-      - 35 nitrogen
-      - 35 oil
-        - 10 carbon
-        - 10 hydrogen
-        - 10 welding fuel
-      - 35 oxygen
-    -  90 lithium
-    - 100 sugar
-
-  - 100 bruizine
-    - 50 libital
-      - 20 nitrogen
-      - 20 oil
-        - 5 carbon
-        - 5 hydrogen
-        - 5 welding fuel
-      - 20 oxygen
-    - 45 lithium
-    - 50 sugar
-
-  - 50 bruizine
-    - 25   libital
-      - 10 nitrogen
-      - 10 oil
-        - 5 carbon
-        - 5 hydrogen
-        - 5 welding fuel
-      - 10 oxygen
-    - 22.5 lithium
-    - 25   sugar
-
-Lacerinol - Slash 25/5u - 12u OD
-  - 200 (180) lacerinol (heat)
-    - 100 (90) benzene (heat)
-      - 100 (45) carbon
-      - 100 (45) hydrogen
-    - 100 (90) libital
-      - 35 (30) nitrogen
-      - 35 (30) oil
-        - 10 (10) carbon
-        - 10 (10) hydrogen
-        - 10 (10) welding fuel
-      - 35 (30) oxygen
-
-Puncturase - Pierce 25/5u - 11u OD
-  - 200 (180) puncturase (heat)
-    - 100 (90) hydroxide (heat)
-      - 50 (45) hydrogen
-      - 50 (45) oxygen
-    - 100 (90) libital
-      - 35 (30) nitrogen
-      - 35 (30) oil
-        - 10 (10) carbon
-        - 10 (10) hydrogen
-        - 10 (10) welding fuel
-      - 35 (30) oxygen
-
-Doc.'s Delight - Burn/Air/Brute/Toxin 10/5u - Alc.
-  - 200 the doctor's delight (stir)
-    - 70 cream
-    - 35 lime juice
-    - 35 orange juice
-    - 35 tomato juice
-    - 35 tricordrazine
-      - 20 inaprovaline
-        - 10 carbon
-        - 10 oxygen
-        - 10 sugar
-      - 20 multiver
-        - 10 oil
-          - 5 carbon
-          - 5 hydrogen
-          - 5 welding fuel
-        - 10 silicon
-        - 10 table salt
-          - 5 chlorine
-          - 5 sodium
 
 Diphenylmethylamine 5u - Narcolepsy, 10 minutes
 Diphenylmethylamine - 10m narc 5u+, 100s drow/5u
@@ -340,6 +83,34 @@ Diphenylmethylamine - 10m narc 5u+, 100s drow/5u
         - 10 (10) chlorine
         - 10 (10) sodium
 
+Omnizine 20u - All but genetic 32
+Omnizine - All but genetic 8/5u
+
+[color=#639137][head=3]Niche and Botanical Chemicals/Reactions[/head][/color]
+
+Doc.'s Delight - Burn/Air/Brute/Toxin 10/5u - Alc.
+  - 200 the doctor's delight (stir)
+    - 70 cream
+    - 35 lime juice
+    - 35 orange juice
+    - 35 tomato juice
+    - 35 tricordrazine
+      - 20 inaprovaline
+        - 10 carbon
+        - 10 oxygen
+        - 10 sugar
+      - 20 multiver
+        - 10 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 10 silicon
+        - 10 table salt (heat)
+          - 5 chlorine
+          - 5 sodium
+
+Poly. - Bnt/Prc/Sls 33.3, Asp 75/5u - 30u OD
+
 Plastic
   - 10 plastic
     - 30 ash (grind)
@@ -353,7 +124,54 @@ Plastic
       - 20 oxygen
       - 10 sulfur
 
-Omnizine 20u - All but genetic 32
-Omnizine - All but genetic 8/5u
+Ambuzol plus - Zombie Cure, Innoc 5u+
+  - 200 ambuzol plus
+    - 100 ambuzol
+      - 25 ammonia
+        - 30 hydrogen
+        - 10 nitrogen
+      - 25 multiver
+        - 10 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 10 silicon
+        - 10 table salt
+          - 5 chlorine
+          - 5 sodium
+      - 50 zombie blood
+    - 100 omnizine
 
-Poly. - Bnt/Prc/Sls 33.3, Asp 75/5u - 30u OD
+  - 100 ambuzol plus
+    - 50 ambuzol
+      - 15 ammonia
+        - 15 hydrogen
+        -  5 nitrogen
+      - 15 multiver
+        - 5 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 5 silicon
+        - 5 table salt
+          - 5 chlorine
+          - 5 sodium
+      - 30 zombie blood
+    - 50 omnizine
+
+  - 50 ambuzol plus
+    - 25 ambuzol
+      - 10 ammonia
+        - 15 hydrogen
+        -  5 nitrogen
+      - 10 multiver
+        - 5 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 5 silicon
+        - 5 table salt
+          - 5 chlorine
+          - 5 sodium
+      - 20 zombie blood
+    - 25 omnizine

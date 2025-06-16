@@ -5,11 +5,6 @@
 ░░██░░ [head=2]Cheat Sheet[/head]
 [/color]──────────────────────────────────────────
 
-Ammonia - +Nutrition, +Health
-  - 200 ammonia
-    - 150 hydrogen
-    -  50 nitrogen
-
 Cryoxadone - -Toxin, +Health, -Age
   - 200 cryoxadone
     - 70 dexalin
@@ -50,6 +45,17 @@ Multiver - -Toxin, +Health
       - 35 chlorine
       - 35 sodium
 
+Rob. Har. - +Nut, +Weed, +Pest, +Pot, -Yld, -Seed
+  - 200 robust harvest
+    - 200 ez nutrient
+      - 70 nitrogen
+      - 70 phosphorus
+      - 70 potassium
+    -   1 sulfuric acid
+      -  5 hydrogen
+      - 10 oxygen
+      -  5 sulfur
+
 Phalanximine - +Toxin, +Viable 4+u
   - 200 phalanximine
     - 70 ethanol
@@ -68,3 +74,32 @@ Unstable Mutagen - +Mutation
     - 70 chlorine
     - 70 phosphorus
     - 70 radium
+
+
+Ammonia - +Nutrition, +Health
+  - 200 ammonia
+    - 150 hydrogen
+    -  50 nitrogen
+
+Sedin - -Health, +Seed 20%/1u, -Potency
+  - 50 sedin
+    -  50 cryoxadone
+      - 20 dexalin
+        - 20 oxygen
+        -  1 plasma
+      - 20 oxygen
+      - 20 water
+    - 150 robust harvest
+      - 150 ez nutrient
+        - 50 nitrogen
+        - 50 phosphorus
+        - 50 potassium
+      -   1 sulfuric acid
+        -  5 hydrogen
+        - 10 oxygen
+        -  5 sulfur
+    - 150 diethylamine
+      - 75 ammonia
+        - 60 hydrogen
+        - 20 nitrogen
+      - 75 ethanol
