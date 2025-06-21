@@ -17,12 +17,12 @@ Epi. - Brn 11 Bru 7.5 Asp 50 Poi 12.5/5u - 20u OD
     - 50 chlorine
     - 50 hydroxide
     - 50 phenol
-      - 25 benzene (heat)
+      - 25 benzene (heat 310K)
         - 25 carbon
         - 25 hydrogen
       - 25 hydroxide
 
-    - 75 hydroxide (heat)
+    - 75 hydroxide (heat 310K)
       - 40 hydrogen
       - 40 oxygen
 
@@ -62,6 +62,9 @@ Anodynafil - Anes. 40s, Analg. 80s, Slow 20s/5u
         - 5 copper
         - 5 phosphorus
       - 15 sulfuric acid
+        -  5 hydrogen
+        - 10 oxygen
+        -  5 sulfur
 
 Chloral hydrate - Anesthesia 10+u - 20u OD
   - 200 (180) chloral hydrate
@@ -85,7 +88,7 @@ Pent. - Poison 37.5/5u, Removes Chems - 15.5u OD
     - 40 multiver
       - 15 oil
       - 15 silicon
-      - 15 table salt (heat)
+      - 15 table salt (heat 370K)
         - 10 chlorine
         - 10 sodium
     - 40 oil
@@ -107,7 +110,7 @@ Ethylredoxrazine - Poison 5, Drunk -10 min/5u
         - 10 ( 5) hydrogen
         - 10 ( 5) welding fuel
       - 25 (20) silicon
-      - 25 (20) table salt (heat)
+      - 25 (20) table salt (heat 370K)
         - 15 (10) chlorine
         - 15 (10) sodium
     - 70 (60) oxygen
@@ -120,7 +123,7 @@ Ethylredoxrazine - Poison 5, Drunk -10 min/5u
         - 5 (5) carbon
         - 5 (5) hydrogen
         - 5 (5) welding fuel
-      - 15 (10) table salt (heat)
+      - 15 (10) table salt (heat 370K)
         - 10 (5) chlorine
         - 10 (5) sodium
     - 35 (30) oxygen
@@ -133,7 +136,7 @@ Ethylredoxrazine - Poison 5, Drunk -10 min/5u
         - 5 (5) carbon
         - 5 (5) hydrogen
         - 5 (5) welding fuel
-      - 10 (5) table salt (heat)
+      - 10 (5) table salt (heat 370K)
         - 5 (5) chlorine
         - 5 (5) sodium
     - 20 (15) oxygen
@@ -154,7 +157,7 @@ Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
 Psicodone 10u - -Anx, Drunk -60s, Jit -40s
 Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
   - 200 (180) psicodone
-    -  50 (45) impedrezene (heat)
+    -  50 (45) impedrezene (heat 370K)
       - 50 (45) mercury
       - 50 (45) oxygen
       - 50 (45) water
@@ -165,7 +168,7 @@ Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
     - 100 (90) water
 
   - 100 (80) psicodone
-    - 25 (20) impedrezene (heat)
+    - 25 (20) impedrezene (heat 370K)
       - 25 (20) mercury
       - 25 (20) oxygen
       - 25 (20) water

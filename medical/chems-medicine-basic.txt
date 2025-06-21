@@ -34,10 +34,10 @@ Prob./Lib./Sal. - Bnt/Prc/Sls 10-15/5u - 46.5u OD
   - 70 (60) salicylic acid
     - 20 (15) carbon
     - 20 (15) phenol
-      - 10 (10) hydroxide (heat)
+      - 10 (10) hydroxide (heat 310K)
         - 5 (10) hydrogen
         - 5 (10) oxygen
-      - 10 (10) benzene (heat)
+      - 10 (10) benzene (heat 310K)
         - 10 (10) carbon
         - 10 (10) hydrogen
     - 20 (15) probitol
@@ -74,7 +74,7 @@ Aiuri/Lenturi 1:1 - Heat/Shk/Cold 12.5/5u - 40u OD
       - 15 (10) sulfur
 
 Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
-  - 100 (90) diphenhydramine (heat)
+  - 100 (90) diphenhydramine (heat 378K)
     - 35 (30) carbon
     - 35 (30) diethylamine
       - 20 (15) ammonia
@@ -89,7 +89,7 @@ Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
     - 35 (30) silicon
     - 35 (30) table salt
 
-  - 70 (60) table salt (heat)
+  - 70 (60) table salt (heat 370K)
     - 35 (30) chlorine
     - 35 (30) sodium
   - 70 (60) oil
@@ -112,11 +112,11 @@ Sigynate - Caustic 30/5u - 16u OD
         -  5 nitrogen
       - 15 carbon
       - 15 oxygen
-      - 15 table salt (heat)
+      - 15 table salt (heat 370K)
         - 10 chlorine
         - 10 sodium
     - 50 sodium hydroxide
-      - 25 hydroxide (heat)
+      - 25 hydroxide (heat 310K)
         - 15 hydrogen
         - 15 oxygen
       - 25 sodium
@@ -147,7 +147,7 @@ Arith./Gran. 4:1 - Radiation 40/5u - Bleed
   -  40 granibitulari
     - 15 carbon
     - 15 potassium
-    - 15 table salt (heat)
+    - 15 table salt (heat 370K)
       - 10 chlorine
       - 10 sodium
 
@@ -175,7 +175,7 @@ Phal./Arith./Gran. 8:4:1 - Gen./Rad. 7.69/5u
   -  15 granibitulari
     - 5 carbon
     - 5 potassium
-    - 5 table salt (heat)
+    - 5 table salt (heat 370K)
       - 5 chlorine
       - 5 sodium
   - 120 phalanximine
@@ -202,10 +202,10 @@ Dexalin/Salb. 1:1 - Asph/Bld 18.75-50/5u - 31u OD
       - 10 sugar
     - 25 lithium
     - 25 phenol
-      - 15 benzene (heat)
+      - 15 benzene (heat 310K)
         - 15 carbon
         - 15 hydrogen
-      - 15 hydroxide (heat)
+      - 15 hydroxide (heat 310K)
         - 10 hydrogen
         - 10 oxygen
 

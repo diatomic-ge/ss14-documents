@@ -40,8 +40,8 @@ Bruizine - Blunt 25/5u - 10.5u OD - DON'T MIX!
     - 25   sugar
 
 Lacerinol - Slash 25/5u - 12u OD - DON'T MIX!
-  - 200 (180) lacerinol (heat)
-    - 100 (90) benzene (heat)
+  - 200 (180) lacerinol (heat 335K)
+    - 100 (90) benzene (heat 310K)
       - 100 (90) carbon
       - 100 (90) hydrogen
     - 100 (90) libital
@@ -53,8 +53,8 @@ Lacerinol - Slash 25/5u - 12u OD - DON'T MIX!
       - 35 (30) oxygen
 
 Puncturase - Pierce 25/5u - 11u OD - DON'T MIX!
-  - 200 (180) puncturase (heat)
-    - 100 (90) hydroxide (heat)
+  - 200 (180) puncturase (heat 325K)
+    - 100 (90) hydroxide (heat 310K)
       - 50 (45) hydrogen
       - 50 (45) oxygen
     - 100 (90) libital
@@ -69,10 +69,10 @@ Salic. - Bnt/Prc/Sls 5-20/5u - 15u OD - DON'T MIX!
   - 200 salicylic acid
     - 50 carbon
     - 50 phenol
-      - 25 benzene (heat)
+      - 25 benzene (heat 310K)
         - 25 carbon
         - 25 hydrogen
-      - 25 hydroxide (heat)
+      - 25 hydroxide (heat 310K)
         - 15 hydrogen
         - 15 oxygen
     - 50 probital
@@ -106,16 +106,17 @@ Pyrazine - Heat 25/5u - 15u OD - DON'T MIX!
         - 20 (15) silicon
       -  1 ( 1) plasma
 
+Leporazine 20u - Cold 100 -  Temp. 50s - DON'T MIX
 Leporazine - Cold 25/5u - Stab. Temp. - DON'T MIX!
   - 200 leporazine
     - 100 copper
-    - 100 fersilicite (heat)
+    - 100 fersilicite (heat 310K)
       - 50 iron
       - 50 silicon
     -   1 plasma
 
 Insuzine - Shock 50/5u - DON'T MIX!
-  - 200 (180) insuzine (heat)
+  - 200 (180) insuzine (heat 433K)
     - 70 (60) aiuri
       - 25 (20) ammonia
         - 30 (15) hydrogen
@@ -124,7 +125,7 @@ Insuzine - Shock 50/5u - DON'T MIX!
       - 25 (20) welding fuel
     - 70 (60) leporazine
       - 35 (30) copper
-      - 35 (30) fersilicite (heat)
+      - 35 (30) fersilicite (heat 310K)
         - 20 (15) iron
         - 20 (15) silicon
       -  1 ( 1) plasma
@@ -141,9 +142,9 @@ Oxan. - Ht/Shk/Cld 5-20/5u - 15.5u OD - DON'T MIX!
         - 20 oxygen
         - 10 sulfur
     -  50 phenol
-      - 25 benzene (heat)
+      - 25 benzene (heat 310K)
         - 25 carbon
         - 25 hydrogen
-      - 25 hydroxide (heat)
+      - 25 hydroxide (heat 310K)
         - 15 hydrogen
         - 15 oxygen

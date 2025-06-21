@@ -13,6 +13,8 @@ Leporazine - Cold 25/5u - Stabilized Temperature
       - 50 silicon
     -   1 plasma
 
+
+
 [color=#0091ff][head=2]Cryogenic Medicines[/head][/color]
 
 Cryox. - Air 60, Brt 40, Tox 40, Brn 60/5u - <213K
@@ -151,6 +153,8 @@ Pyrox. - Air 60, Brt 40, Tox 40, Brn 90/5u - >338K
       - 25 iron
       - 25 oxygen
     - 70 welding fuel
+
+Sievertadone
 
 [color=#639137][head=3]Botanical Ingredients Needed[/head][/color]
 

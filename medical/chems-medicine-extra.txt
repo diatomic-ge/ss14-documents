@@ -111,6 +111,8 @@ Doc.'s Delight - Burn/Air/Brute/Toxin 10/5u - Alc.
 
 Poly. - Bnt/Prc/Sls 33.3, Asp 75/5u - 30u OD
 
+Hyper. - Spd 10s, -Stn/Knk/Unc 15s, Adr 25s/5u
+
 Plastic
   - 10 plastic
     - 30 ash (grind)

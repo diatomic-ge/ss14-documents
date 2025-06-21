@@ -49,11 +49,67 @@ Pestiline - Genetic -100/5u - 250s/5u
 
 
 Heartbreaker Toxin - Asphyx -50/5u - 10s/5u
-  - 100 mindbreaker toxin
-  - 100 salbutamol
+  - 200 heartbreaker toxin
+    - 100 mindbreaker toxin (heat 370K)
+      - 35 hydrogen
+      - 35 multiver
+        - 15 silicon
+        - 15 oil
+          - 5 carbon
+          - 5 hydrogen
+          - 5 welding fuel
+        - 15 table salt (heat 370K)
+          - 10 chlorine
+          - 10 sodium
+      - 35 silicon
+    - 100 salbutamol
+      - 25 dexalin
+        - 20 oxygen
+        -  1 plasma
+      - 25 inaprovaline
+        - 10 carbon
+        - 10 oxygen
+        - 10 sugar
+      - 25 lithium
+      - 25 phenol
+        - 15 benzene (heat 310K)
+          - 15 carbon
+          - 15 hydrogen
+        - 15 hydroxide (heat 310K)
+          - 10 hydrogen
+          - 10 oxygen
+
+Heparin - Bloodloss -10/5u - Bleeding
+  - 200 heparin
+    - 50 aluminium
+    - 50 ethanol
+    - 50 lithium
+    - 50 table salt (heat 370K)
+      - 25 chlorine
+      - 25 sodium
 
 Lexorin - Asphyx/Bloodloss -50/5u - 10s/5u
   - 20 lexorin
     - 10 heartbreaker toxin
     - 10 plasma
     - 10 vestine
+
+Pax - Pacif. 40s/5u
+  - 200 (180) pax
+    - 70 (60) mindbreaker toxin (heat 370K)
+      - 25 (20) hydrogen
+      - 25 (20) multiver
+        - 10 (10) oil
+          - 5 (5) carbon
+          - 5 (5) hydrogen
+          - 5 (5) welding fuel
+        - 10 (10) silicon
+        - 10 (10) table salt (heat 370K)
+          - 5 (5) chlorine
+          - 5 (5) sodium
+      - 25 (20) silicon
+    - 70 (60) synaptizine
+      - 25 (20) lithium
+      - 25 (20) sugar
+      - 25 (20) water
+    - 70 (60) water
