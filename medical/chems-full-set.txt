@@ -1,0 +1,470 @@
+# All Medicine At Once
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Full Medicine Production[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+[head=2]Selena's Nice to Haves[/head]
+
+335 table salt (heat 370K)
+  - 170 chlorine
+  - 170 sodium
+
+355 granibitulari
+  - 120 carbon
+  - 120 potassium
+  - 120 table salt
+
+Gran. 20u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 40
+  - 200 granibitulari
+
+
+75 impedrezene (heat 370K)
+  - 75 mercury
+  - 75 oxygen
+  - 75 water
+
+150 mannitol
+  - 50 hydrogen
+  - 50 sugar
+  - 50 water
+
+300 psicodone
+  -  75 impedrezene
+  - 150 mannitol
+  - 150 water
+
+Gran./Psi. 1:1 10u - Bnt/Sls/Prc/Poi/Ht/Shk/Cld 10
+  - 100 granibitulari
+  - 100 psicodone
+
+
+[head=2]Basics[/head]
+
+570 oil (do not mix more than 25-25-25 in a large beaker)
+  - 145 carbon
+  - 145 hydrogen
+  - 145 welding fuel
+
+170 acetone
+  - 60 oil
+  - 60 oxygen
+  - 60 welding fuel
+
+800 libital
+  - 270 nitrogen
+  - 270 oil
+  - 270 oxygen
+
+165 probital
+  - 55 acetone
+  - 55 copper
+  - 55 phosphorus
+
+Prob./Lib. 1:1 - Bnt/Prc/Sls 12.5/5u - 40u OD
+  - 100 libital
+  - 100 probital
+
+
+115 ammonia
+  - 90 hydrogen
+  - 30 nitrogen
+
+245 sulfuric acid
+  -  85 hydrogen
+  - 170 oxygen
+  -  85 sulfur
+
+240 aiuri
+  - 80 ammonia
+  - 80 hydrogen
+  - 80 welding fuel
+
+300 lenturi
+  - 100 chlorine
+  - 100 oxygen
+  - 100 sulfuric acid
+
+Aiuri/Lenturi 1:1 - Heat/Shk/Cold 12.5/5u - 40u OD
+  - 100 aiuri
+  - 100 lenturi
+
+
+35 diethylamine
+  - 20 ammonia
+  - 20 ethanol
+
+100 diphenhydramine (heat 378K)
+  - 35 carbon
+  - 35 diethylamine
+  - 35 ethanol
+  - 35 oil (do not heat alone!)
+  - 35 table salt
+
+250 multiver
+  - 85 oil
+  - 85 silicon
+  - 85 table salt
+
+Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
+  - 100 diphenhydramine
+  - 100 multiver
+
+670 hydroxide (heat 310K)
+  - 335 hydrogen
+  - 335 oxygen
+
+50 sodium carbonate
+  - 15 ammonia
+  - 15 carbon
+  - 15 oxygen
+  - 15 table salt
+
+50 sodium hydroxide
+  - 25 hydroxide
+  - 25 sodium
+
+200 sigynate (heat 370K, do not mix hot)
+  - 50 lenturi
+  - 50 sodium carbonate
+  - 50 sodium hydroxide
+  - 50 sugar
+  - 50 water
+
+Sigynate - Caustic 30/5u - 16u OD
+  - 200 sigynate
+
+
+215 potassium iodide
+  - 110 iodine
+  - 110 potassium
+
+350 hyronalin
+  - 175 potassium iodide
+  - 175 radium
+
+620 arithrazine
+  - 310 hydrogen
+  - 310 hyronalin
+
+55 granibitulari
+  - 20 carbon
+  - 20 potassium
+  - 20 table salt
+
+Arith./Gran. 4:1 - Radiation 40/5u - Bleed
+  - 160 arithrazine
+  -  40 granibitulari
+
+
+640 unstable mutagen
+  - 215 chlorine
+  - 215 phosphorus
+  - 215 radium
+
+120 phalanximine
+  - 40 ethanol
+  - 40 hyronalin
+  - 40 unstable mutagen
+
+Phal./Arith./Gran. 8:4:1 - Gen./Rad. 7.69/5u
+  -  60 arithrazine
+  -  15 granibitulari
+  - 120 phalanximine
+
+
+205 inaprovaline
+  - 70 carbon
+  - 70 oxygen
+  - 70 sugar
+
+330 benzene (heat 310K)
+  - 330 carbon
+  - 330 hydrogen
+
+455 phenol
+  - 230 benzene
+  - 230 hydroxide
+
+630 dexalin (careful of overflow!)
+  - 420 oxygen
+  -   1 plasma (catalyst)
+
+500 salbutamol
+  - 125 dexalin
+  - 125 inaprovaline
+  - 125 lithium
+  - 125 phenol
+
+Dexalin/Salb. 1:1 - Asph/Bld 18.75-50/5u - 31u OD
+  - 100 dexalin
+  - 100 salbutamol
+
+400 saline
+  -  80 table salt
+  - 320 water
+
+
+Saline - Bloodloss 20%/5u - no OD
+  - 200 saline
+
+
+[head=2]Specialty Brute/Burn[/head]
+
+600 bruizine
+  - 300 libital
+  - 270 lithium
+  - 300 sugar
+
+Bruizine - Blunt 25/5u - 10.5u OD - DON'T MIX!
+  - 200 bruizine
+
+
+200 lacerinol (heat 335K)
+  - 100 benzene
+  - 100 libital
+
+Lacerinol - Slash 25/5u - 12u OD - DON'T MIX!
+
+
+600 puncturase (heat 325K)
+  - 300 hydroxide
+  - 300 libital
+
+Puncturase - Pierce 25/5u - 11u OD - DON'T MIX!
+
+
+250 salicylic acid
+  - 65 carbon
+  - 65 phenol
+  - 65 probital
+  - 65 sulfuric acid
+
+Salic. - Bnt/Prc/Sls 5-20/5u - 15u OD - DON'T MIX!
+  - 200 salicylic acid
+
+
+370 fersilicite (heat 310K)
+  - 185 iron
+  - 185 silicon
+
+740 leporazine
+  - 370 copper
+  - 370 fersilicite
+  -   1 plasma (catalyst)
+
+200 pyrazine (heat 540K)
+  - 70 aiuri
+  - 70 carbon
+  - 70 leporazine
+
+Pyrazine - Heat 25/5u - 15u OD - DON'T MIX!
+  - 200 pyrazine
+
+
+Leporazine - Cold 25/5u - Stab. Temp. - DON'T MIX!
+  - 200 leporazine
+
+
+200 insuzine (heat 433K)
+  - 70 aiuri
+  - 70 leporazine
+  - 70 silicon
+
+Insuzine - Shock 50/5u - DON'T MIX!
+  - 200 insuzine
+
+
+600 oxandrolone
+  - 300 carbon
+  - 150 lenturi
+  - 150 phenol
+
+Oxan. - Ht/Shk/Cld 5-20/5u - 15.5u OD - DON'T MIX!
+  - 200 oxandrolone
+
+
+[head=2]Emergency/Surgery/Psychiatric[/head]
+
+460 epinephrine
+  - 115 acetone
+  - 115 chlorine
+  - 115 hydroxide
+  - 115 phenol
+
+Epi. - Brn 11 Bru 7.5 Asp 50 Poi 12.5/5u - 20u OD
+  - 200 epinephrine
+
+
+240 tranexamic acid
+  - 80 inaprovaline
+  - 80 sugar
+  - 80 sulfuric acid
+
+Tranexamic Acid - Reduce bleeding - 15u OD
+  - 200 tranexamic acid
+
+
+200 anodynafil (heat 400K, do not heat more than 25-25-25 in a large beaker)
+  - 50 ethanol
+  - 50 iodine
+  - 50 salicylic acid
+
+Anodynafil - Anes. 40s, Analg. 80s, Slow 20s/5u
+  - 200 anodynafil
+
+
+400 chloral hydrate
+  - 405 chlorine
+  - 135 ethanol
+  - 135 water
+
+Chloral hydrate - Anesthesia 10+u - 20u OD
+  - 200 chloral hydrate
+
+
+400 pentetic acid (ADD PLASMA LAST!)
+  - 80 ethanol
+  - 80 multiver
+  - 80 oil
+  - 80 plasma (grind 8 solid plasma)
+  - 80 silicon
+
+Pent. - Poison 37.5/5u, Removes Chems - 15.5u OD
+  - 200 pentetic acid
+
+
+200 ethylredoxrazine
+  - 70 carbon
+  - 70 multiver
+  - 70 oxygen
+
+Ethylredoxrazine - Poison 5, Drunk -10 min/5u
+  - 200 ethylredoxrazine
+
+
+200 haloperidol
+  - 40 aluminium
+  - 40 chlorine
+  - 40 fluorine
+  - 40 oil
+  - 40 potassium iodine
+
+Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
+  - 200 haloperidol
+
+
+Psicodone - -Anx, Drunk -60s, Jit -20s/5u - 30u OD
+  - 200 psicodone
+
+
+[head=2]Cryogenic[/head]
+
+700 cryoxadone
+  - 235 dexalin
+  - 235 oxygen
+  - 235 water
+
+Cryox. - Air 60, Brt 40, Tox 40, Brn 60/5u - <213K
+  - 200 cryoxadone
+
+
+200 doxarubixadone
+  - 100 cryoxadone
+  - 100 unstable mutagen
+
+Doxarubixadone - Genetic 20/5u - <213K
+  - 200 doxarubixadone
+
+
+200 hemoxadone (heat 370K)
+  - 200 iron
+  - 100 cryoxadone
+  -   1 blood (catalyst, pets)
+
+Hemoxadone - Bloodloss 60/5u - <213K - No Arachnid
+  - 200 hemoxadone
+
+
+200 cyanoxadone (heat 370K)
+  - 200 copper
+  - 100 cryoxadone
+  -   1 blue blood (catalyst, arachnids, crabs, spiders, Tropico, Shiva)
+
+Cyanoxadone - Bloodloss 60/5u - <213K - Arachnid
+  - 200 cyanoxadone
+
+
+[head=2]Pyrogenic[/head]
+
+100 thermite
+  - 35 aluminium
+  - 35 iron
+  - 35 oxygen
+
+300 pyroxadone (heat 433K)
+  - 100 dexalin
+  - 100 thermite
+  - 100 welding fuel
+
+Pyrox. - Air 60, Brt 40, Tox 40, Brn 90/5u - >338K
+  - 200 pyroxadone
+
+
+200 natusixadone
+  - 100 pyroxadone
+  - 100 unstable mutagen
+
+Natus. - Genetic 40, Heat 30/5u - >344K - Dead
+  - 200 natusixadone
+
+
+[head=2]Exotic[/head]
+
+400 licoxide
+  - 400 leporazine
+  - 400 oxandrolone
+
+400 pestiline
+  - 400 arithrazine
+  - 200 pentetic acid
+  - 200 salbutamol
+
+400 razorium
+  - 400 bruizine
+  - 400 puncturase
+
+400 liquid exotium
+  - 400 licoxide
+  - 400 pestiline
+  - 400 razorium
+  - 400 unstable mutagen
+
+200 stasicillin
+  - 200 chloral hydrate
+  - 200 cryoxadone
+  - 200 liquid exotium
+  - 200 saline
+
+Stas. 20u - Brt/Tox/Brn/Air - Uncon. 90s
+Stas. - Brt/Tox/Brn/Air - 11+u - Uncon. 50s/5u
+  - 200 stasicillin
+
+
+200 convermol
+  - 70 aluminium
+  - 70 dexalin
+  - 70 fluorine
+
+200 revivopine
+  - 200 convermol
+  - 200 epinephrine
+  - 200 liquid exotium
+  - 200 salbutamol
+
+2x
+Rev./Epi./Tran. 10:3:2 - syringe on crit, no toxin
+  - 100 revivopine
+  -  30 epinephrine
+  -  20 tranexamic acid
