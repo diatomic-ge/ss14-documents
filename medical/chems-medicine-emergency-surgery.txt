@@ -141,6 +141,7 @@ Ethylredoxrazine - Poison 5, Drunk -10 min/5u
         - 5 (5) sodium
     - 20 (15) oxygen
 
+Halo. 20u - Dr 160s, -Jt 160s, -Hl 400s, Nr -120u
 Halo. - Drow 40s, -Jit 40s, -Hal 100s, Nar -30u/5u
   - 200 haloperidol
     - 40 aluminium

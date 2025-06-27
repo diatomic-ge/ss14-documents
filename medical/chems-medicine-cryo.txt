@@ -144,7 +144,7 @@ Natus. - Genetic 40, Heat 30/5u - >344K - Dead
       - 35 radium
 
 Pyrox. - Air 60, Brt 40, Tox 40, Brn 90/5u - >338K
-  - 200 pyroxadone (heat)
+  - 200 pyroxadone (heat 433K)
     - 70 dexalin
       - 50 oxygen
       -  1 plasma
@@ -154,14 +154,12 @@ Pyrox. - Air 60, Brt 40, Tox 40, Brn 90/5u - >338K
       - 25 oxygen
     - 70 welding fuel
 
-Sievertadone
-
 [color=#639137][head=3]Botanical Ingredients Needed[/head][/color]
 
 Ard. - Cld 50, Ht 30, Shk 30/5u - >344K - Dead
   - 200 ardthyrnkole
     -   1 plasma
-    - 100 pyroxadone (heat)
+    - 100 pyroxadone (heat 433K)
       - 35 dexalin
         - 30 oxygen
         -  1 plasma
@@ -173,3 +171,24 @@ Ard. - Cld 50, Ht 30, Shk 30/5u - >344K - Dead
     - 100 siderlac
       - 50 aloe (grow aloe in botany, grind)
       - 50 stellibinin (grow galaxythistle in botany, grind)
+
+Sievertadone - Rad 40, Heat 30/5u - >344K - Dead
+  - 200 sievertadone
+    - 130 arithrazine
+      - 75 hydrogen
+      - 75 hyronalin
+        - 40 potassium iodide
+          - 20 iodine
+          - 20 potassium
+        - 40 radium
+    -  65 pyroxadone (heat 433K)
+      - 25 dexalin
+        - 20 oxygen
+        -  1 plasma
+      - 25 thermite
+        - 10 aluminium
+        - 10 iron
+        - 10 oxygen
+      - 25 welding fuel
+    -  65 ultravasculine (grind lingzhi)
+    -   1 fluorine (catalyst)

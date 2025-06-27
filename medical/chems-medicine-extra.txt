@@ -7,6 +7,7 @@
 
 [color=#86b4d8][head=2]Useful Pills[/head][/color]
 
+Gran. 10u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 20
 Gran. 20u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 40
 Gran. - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 10/5u
   - 200 (180) granibitulari
@@ -84,7 +85,21 @@ Diphenylmethylamine - 10m narc 5u+, 100s drow/5u
         - 10 (10) sodium
 
 Omnizine 20u - All but genetic 32
+Omnizine 10u - All but genetic 16
 Omnizine - All but genetic 8/5u
+
+Hypo. - Brts 37.5, Air/Toxs 56.25, Brns 28/5u
+
+Tric. 10u - Bnt/Prc/Sls/Ht/Shk/Cld/Poi 45 - <40
+Tric. - Bnt/Prc/Sls/Ht/Shk/Cld/Poi 22.5/5u - <40
+
+Inaprovaline 10u - Asphyx 150 - Crit
+Inaprovaline - Asphyx 75/5u - Crit
+
+Stellibinin 10u - Poi 150
+Stellibinin - Poi 75/5u
+
+Aiuri - Ht/Cld/Shk 10/5u - 20u OD
 
 [color=#639137][head=3]Niche and Botanical Chemicals/Reactions[/head][/color]
 
@@ -109,8 +124,10 @@ Doc.'s Delight - Burn/Air/Brute/Toxin 10/5u - Alc.
           - 5 chlorine
           - 5 sodium
 
+Poly. 20u - Bnt/Prc/Sls 133.3 Asp 300 - 30u OD
 Poly. - Bnt/Prc/Sls 33.3, Asp 75/5u - 30u OD
 
+Hyper. 20u - Spd 40s, -Stn/Knk/Unc 60s, Adr 100s
 Hyper. - Spd 10s, -Stn/Knk/Unc 15s, Adr 25s/5u
 
 Plastic

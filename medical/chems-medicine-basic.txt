@@ -98,7 +98,7 @@ Multiver/Diphen. 1:1 - Poison 27.5/5u - 40u OD
     - 20 (15) welding fuel
 
 Sigynate - Caustic 30/5u - 16u OD
-  - 200 sigynate (heat, do not mix hot)
+  - 200 sigynate (heat 370K, do not mix hot)
     - 50 lenturi
       - 20 chlorine
       - 20 oxygen
@@ -136,6 +136,7 @@ Arithrazine - Radiation 50/5u, Brute -5/5u - Bleed
 
 If you want to also treat the brute damage caused by arithrazine, consider adding granibitulari specifically since it metabolizes slowly, and a small amount will take as long as the arithrazine to metabolize, while also healing minor amounts of other damages:
 
+Arith./Gran. 4:1 10u - Radiation 80 - Bleed
 Arith./Gran. 4:1 - Radiation 40/5u - Bleed
   - 160 arithrazine
     - 80 hydrogen
@@ -213,6 +214,7 @@ Dexalin/Salb. 1:1 - Asph/Bld 18.75-50/5u - 31u OD
     - 90 oxygen
     -  1 plasma (catalyst)
 
+Saline 20u - Bloodloss 80%
 Saline - Bloodloss 20%/5u - no OD
   -  40 table salt
     - 20 chlorine

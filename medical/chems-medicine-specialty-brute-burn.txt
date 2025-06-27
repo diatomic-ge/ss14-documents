@@ -91,7 +91,7 @@ Salic. - Bnt/Prc/Sls 5-20/5u - 15u OD - DON'T MIX!
       - 20 sulfur
 
 Pyrazine - Heat 25/5u - 15u OD - DON'T MIX!
-  - 200 (180) pyrazine (heat 540k)
+  - 200 (180) pyrazine (heat 540K)
     - 70 (60) aiuri
       - 25 (20) ammonia
         - 30 (15) hydrogen
