@@ -1,0 +1,23 @@
+# Station Inspection Report
+[color=#1b67a5]░░██░░ [head=2]Station Inspection Report[/head]
+▀████▀ [head=3]Subject:  [/head]
+▄█▀▀█▄ [head=3]From:  Selena Moon[/head]
+[/color]──────────────────────────────────────────
+
+[head=2]Command[/head]
+
+[head=2]Cargo[/head]
+
+[head=2]Civilian[/head]
+
+[head=2]Engineering[/head]
+
+[head=2]Medical[/head]
+
+[head=2]Science[/head]
+
+[head=2]Security[/head]
+
+[head=2]Other Incidents[/head]
+
+──────────────────────────────────────────
