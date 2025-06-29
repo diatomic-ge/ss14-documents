@@ -148,11 +148,6 @@ Sigynate - Caustic 30/5u - 16u OD
   - 310 hydrogen
   - 310 hyronalin
 
-55 granibitulari
-  - 20 carbon
-  - 20 potassium
-  - 20 table salt
-
 Arith./Gran. 4:1 - Radiation 40/5u - Bleed
   - 160 arithrazine
   -  40 granibitulari

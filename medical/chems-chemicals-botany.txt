@@ -45,6 +45,13 @@ Multiver - -Toxin, +Health
       - 35 chlorine
       - 35 sodium
 
+Every unit adds 3 potency, up to 50, so:
+
+- Starting potency  1: 17 units
+- Starting potency 10: 14 units
+- Starting potency 15: 12 units
+- Starting potency 20: 10 units
+
 Rob. Har. - +Nut, +Weed, +Pest, +Pot, -Yld, -Seed
   - 200 robust harvest
     - 200 ez nutrient

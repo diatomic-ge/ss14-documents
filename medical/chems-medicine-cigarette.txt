@@ -1,0 +1,94 @@
+# Cigarette Mixes
+
+[color=#5b97bc]░░██░░ [head=2]Selena Moon's[/head]
+██████ [head=2]Cigarette Mixes[/head]
+░░██░░ [head=2]Cheat Sheet[/head]
+[/color]──────────────────────────────────────────
+
+These are various mixes intended to be injected into cigarettes.
+
+Cigarettes have 10 units of nicotine, and enough space to syringe in an extra 10 units of chemicals.
+
+Cigarettes take on average 20 seconds to burn one unit of reagent for inhalation, and since this is mixed with the nicotine, this tends to mean you inhale one unit of whatever is added to the cigarette every 40 seconds.
+
+Every syringed cigarette should burn for about 400 seconds, or six minutes and 40 seconds.
+
+Interdynes have 30 omnizine, instead of 10, and burn for about 800 seconds, or thirteen minutes and 20 seconds, if you happen to get them in the mail.
+
+
+For anxiety, with a tiny bit of healing:
+
+Gran./Psi. 1:1 10u - Bnt/Sls/Prc/Poi/Ht/Shk/Cld 10
+  - 100 granibitulari
+    - 35 carbon
+    - 35 potassium
+    - 35 table salt (heat 370K)
+      - 20 chlorine
+      - 20 sodium
+  - 100 psicodone
+    - 25 impedrezene (heat 370K)
+      - 25 mercury
+      - 25 oxygen
+      - 25 water
+    - 50 mannitol
+      - 20 hydrogen
+      - 20 sugar
+      - 20 water
+    - 50 water
+
+  - 50 granibitulari
+    - 20 carbon
+    - 20 potassium
+    - 20 table salt (heat 370K)
+      - 10 chlorine
+      - 10 sodium
+  - 50 psicodone
+    - 15 impedrezene (heat 370K)
+      - 15 mercury
+      - 15 oxygen
+      - 15 water
+    - 25 mannitol
+      - 10 hydrogen
+      - 10 sugar
+      - 10 water
+    - 25 water
+
+
+For just healing:
+
+Gran. 10u - Bnt/Sls/Prc/Poi/Heat/Shk/Cold 20
+  - 100 granibitulari
+    - 35 carbon
+    - 35 potassium
+    - 35 table salt (heat 370K)
+      - 20 chlorine
+      - 20 sodium
+
+
+If you have omnizine, which heals less per cigarette, but also covers radiation, airloss, bloodloss, and caustic burns:
+
+Omnizine 10u - All but genetic 16
+
+
+If you get Interdynes in the mail, or happen to find them through other means (I wish I knew how they fit so much in each cigarette):
+
+Omnizine 30u - All but genetic 48
+
+
+Dexalin cigarettes aren't the most useful to most species.
+
+However, slime people, or at least myself, in my own experiments, suffocate at about the rate of 0.2 airloss per second without nitrogen.
+
+If you're curious, this means slime people can survive very roughly 8 minutes, 20 seconds before passing out.
+
+This makes 20-unit salbutamol pills, taken shortly before passing out, the most space-efficient way for a slime person to survive without nitrogen.
+
+4.8 units will bring you from 100 asphyxiation to 30, and a further 12 units will bring you from 30 to 0.
+
+This means a single canister of 20 unit salbutamol pills will keep a slime alive without nitrogen for approximately 2 hours, 13 minutes, 20 seconds.
+
+Four canisters, which fits in the same space as a large nitrogen tank, will keep you alive for approximately 8 hours, 53 minutes, and 20 seconds, far more than the nitrogen tank.
+
+This also means a dexalin cigarette will heal 50 asphyxiation over 400 seconds, or
+
+[bold]Warning: Extensive time without nitrogen may cause permanent slime core injury, even without airloss damage! Don't do this for long periods, or outside of emergencies![/bold]
